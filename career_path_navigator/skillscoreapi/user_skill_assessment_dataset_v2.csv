@@ -1,0 +1,1001 @@
+user_id,interest,calculated_skill_score,Q1_score,Q2_score,Q3_score,Q4_score,Q5_score,Q1_response,Q2_response,Q3_response,Q4_response,Q5_response
+ebcb1f00-a977-4e6e-9872-0409795d0335,Social Service,0.3,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+8f3202d1-fe22-4080-82b4-93d46ba69615,Business,3.8,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+22451aaa-25a2-4a16-9ac6-82915cbd31b3,Medicine,0.9,0,0,0,0.0,1,No,Low,No,No,Intermediate
+33829954-f84a-44b3-bdf0-d7cfd8c4da54,Business,4.7,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+824b9287-e73a-4128-aea9-63a433d08c33,Law,3.1,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+ff1b18e0-0bef-4cce-98da-fc5c23e22bcc,Business,3.6,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+0f241047-ee44-4eb2-9c5c-6c6c88bc6634,Architecture,4.3,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+ae44dfe4-2e72-4806-b648-ad6b2f5bb49a,Social Service,5.0,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+b840bf6d-1f5b-4574-86a8-85fc36f21b61,Architecture,1.5,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+831aff39-7e87-4289-b7c7-f14fac94092e,Coding,3.2,1,0,1,1.0,0,Yes,Low,Yes,Data,Beginner
+179f4be4-54b7-4bde-b256-7361c772068a,Coding,3.0,1,0,1,1.0,2,Yes,Low,Yes,Data,Advanced
+9a1c5f77-020f-47e7-a5c3-5475ac65a642,Social Service,3.7,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+f8cc8b50-a274-4d4a-aa7b-11b9c5552d65,Business,3.2,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+99c68b58-7eb4-4179-b824-87a2d8413779,Architecture,4.9,0,1,0,0.0,2,No,Medium,No,No,Advanced
+30ec2001-72f5-45d7-a842-42287b53ea58,Medicine,5.0,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+6c59439a-b399-4020-9028-c92ef5bf553e,Law,2.5,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+00de1ec1-68ca-4355-a007-4c0c5643c318,Business,0.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+4a4aabac-9ecb-429e-aeaf-e1de2b9a2923,Coding,3.1,0,0,0,0.8,2,No,Low,No,UI,Advanced
+cb5ef900-fe7b-4710-9527-2fc535f77d19,Commerce,4.9,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+ff16108d-1e98-4e99-9bd7-51e9141494c7,Business,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+d44baabc-bfd6-4ced-b6aa-c9fa7b60c9dd,Journalism,2.4,0,1,0,0.0,0,No,Medium,No,No,Beginner
+74247a6d-033a-45e7-b857-22f26fcc2ca5,Commerce,2.2,0,1,0,1.0,1,No,Medium,No,Yes,Intermediate
+56102737-ce62-4b7a-9231-62898b9a0dd6,Business,4.5,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+b4fcbcd6-505d-4c51-b695-25138b230ea2,Business,3.4,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+d654f524-15d7-4f10-82aa-df86887a3247,Business,3.8,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+650a59b6-b42f-4eb5-8052-15c12dcfbfd5,Law,4.1,0,2,1,0.0,0,No,High,Yes,No,Beginner
+b5e17de4-3d75-43bc-ac25-6ffb24c62948,Social Service,3.2,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+33ae8563-69f4-40d9-967e-f25db0a2e9c1,Journalism,2.6,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+340c4f59-13aa-434a-bd59-3372e09ac599,Coding,4.7,0,1,0,0.8,1,No,Medium,No,UI,Intermediate
+fb7c3619-d682-4f0d-8017-c9cc60ec5da2,Social Service,2.2,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+c4971560-15db-4f04-9464-c5cb0946404e,Architecture,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+552ff0be-4423-4f96-bb5a-0728d8ec3ef5,Architecture,4.3,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+6edafbb0-1be5-4c25-831d-a31533726ae9,Commerce,2.9,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+9663dbc1-4fc8-4644-b330-a4a9d2635df6,Law,3.1,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+bdeeb14d-eae2-42c3-ac36-e6f5680b7a15,Business,4.3,0,2,0,1.0,2,No,High,No,Yes,Advanced
+5e375f1e-45eb-420b-aec7-4aa964f15640,Commerce,2.7,0,2,1,0.0,2,No,High,Yes,No,Advanced
+c360e6ee-abc4-4e8f-907c-75a97ccd03b6,Social Service,1.8,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+0d97cdc6-106d-4a28-b43a-d853a2e04326,Medicine,5.0,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+8a9aae15-fb05-4dfd-8f26-f8e0f45c0dce,Commerce,4.8,1,2,0,0.0,2,Yes,High,No,No,Advanced
+f6c23453-aeb4-44b3-ac1a-5e71880c01fb,Journalism,5.0,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+6e1bb202-a47d-48cc-af9e-8d738fe8214b,Law,3.8,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+037594d5-dfb8-45ef-a169-67579a2da155,Medicine,4.9,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+4d8f37c7-f314-4b37-a45b-81ac5abe0b54,Commerce,4.0,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+a76d1103-18df-4271-a972-56de857d5a17,Medicine,4.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+1223e1ca-76e3-444e-8acc-e2b41f3ee6a3,Architecture,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+b44b4b68-f097-48e1-a5db-8240677b1518,Social Service,1.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+3226dc8a-a0b1-4593-8b98-07103db02143,Journalism,3.1,0,2,0,0.0,0,No,High,No,No,Beginner
+0e894e53-572b-4eec-9575-30fdc1e42284,Journalism,2.0,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+9a8c3f97-6f9f-4887-84c9-a10699edb3b0,Business,2.7,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+9b2c7735-2594-4496-a9c6-c6b87a669bee,Journalism,5.0,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+be6f8d61-3755-4b07-95c2-eaafc46f5811,Social Service,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+dcf532b2-c79d-4b34-8c26-3fd9415f34d0,Business,0.7,0,0,0,0.0,0,No,Low,No,No,Beginner
+0df33c6b-d37d-40ad-95bd-45c5190da66e,Social Service,1.3,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+f91ae686-88e4-4e7f-98e3-bdeb8c2a27d1,Coding,4.0,1,2,0,1.0,2,Yes,High,No,Data,Advanced
+b592bc2d-3198-4acc-8f3c-4e9c5c5fc81a,Law,4.6,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+e859737b-da60-4a9d-afef-508aeae66f4f,Medicine,2.9,0,0,0,0.0,2,No,Low,No,No,Advanced
+8809a0f5-3192-4553-926c-c623d4ca8404,Coding,4.0,1,0,1,1.0,2,Yes,Low,Yes,Data,Advanced
+2a113671-5ca9-409c-8f77-800d022b9ba4,Journalism,3.2,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+123e5458-d9b4-4de1-9262-0910a19e0dda,Business,4.2,0,2,0,0.0,2,No,High,No,No,Advanced
+36bce9c0-2df7-474a-9892-b2df352cef85,Journalism,5.0,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+a1b8eadc-0a7e-4414-8fba-1beff889c216,Business,3.7,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+f4fb36c0-8966-484b-95e9-08c1b44db9dd,Social Service,2.9,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+cb92b009-1ba9-4879-ae91-c7a078da7fd8,Medicine,3.6,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+a0b8caca-411c-4435-8beb-c8babeb13ff5,Social Service,4.9,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+9bfc1b8d-0d87-4028-bf57-9f62b8cfe89a,Commerce,3.3,0,2,1,0.0,0,No,High,Yes,No,Beginner
+6ed7fa78-105b-4a11-92f2-34fa46926629,Medicine,0.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+8ca548e6-60f5-4c08-9caf-0786fc4ce4d8,Architecture,0.5,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+fb1c57b6-3a57-4386-8bf0-f030b01b58fd,Medicine,1.7,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+e52d87f5-c54e-41d5-98a7-362d04fb4e8d,Social Service,4.5,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+63e476dd-1f87-4fef-a0a3-9376bff02893,Law,4.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+d97e4c72-1d75-4612-a08c-c0101a5500ae,Business,3.0,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+f2d03c57-e996-4395-aee1-18ddc5c28963,Social Service,2.7,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+029ec48f-9ecf-4946-8560-0e47b55f088a,Architecture,2.9,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+c84c3526-16a1-497e-988d-e35d30fe425a,Journalism,2.1,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+7221f11b-1132-4d88-92ae-a3e63e7ee510,Medicine,2.1,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+24655011-f5cd-4e03-ad3b-ea7c589b3edf,Architecture,3.9,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+66a16f06-5c8d-44ac-88f7-d1430cb1c4bf,Journalism,2.2,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+74e4c2a3-9356-4306-9f52-5a0f39c3f8e6,Journalism,4.7,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+37012446-057d-4cea-892c-77e707ba4e41,Medicine,2.2,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+1b3e01bb-8ca3-49fa-8ceb-7caf51fa3fd3,Social Service,3.3,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+feb6d7d7-6e0d-4306-92e5-37f3d09d0d87,Coding,5.0,1,1,1,0.8,2,Yes,Medium,Yes,UI,Advanced
+516d3b9d-7a75-4e2c-833e-13292541cbd5,Law,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+0a5af4c7-4634-46cb-a9f6-4eab4d4de323,Medicine,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+27b36da3-c31e-4623-b02a-efb5c34d8bdf,Social Service,5.0,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+d279a8cd-4416-430b-bc0d-403464e8c894,Architecture,4.0,0,2,0,0.0,2,No,High,No,No,Advanced
+668c1995-036d-477d-ac09-2213589507cc,Coding,1.6,1,1,0,1.0,1,Yes,Medium,No,Data,Intermediate
+d01961a7-e05e-45da-9696-f22dafac848a,Architecture,5.0,1,1,0,0.0,2,Yes,Medium,No,No,Advanced
+07b8e1be-45b3-467a-8faf-d7d1ce771ab8,Law,0.3,0,0,0,0.0,0,No,Low,No,No,Beginner
+021d342f-e8fa-43c3-abd8-4fcf0bf24cd1,Law,3.0,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+d71271fd-fa06-452e-b71d-b331c602f34e,Social Service,2.8,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+dac7eca7-f2c6-4cc0-8157-4a2b09dcdd2b,Law,3.9,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+d55f19be-34ff-4e9e-96cb-8f6bd0e72bfd,Architecture,2.7,0,2,0,0.0,0,No,High,No,No,Beginner
+bdbf4c6a-6ce3-4c6e-b61a-d03d5a0b1500,Journalism,5.0,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+34c37869-e17b-444a-9569-10db6823e662,Journalism,1.1,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+b97cb915-1bec-4f8e-bbac-8cf86e947d8a,Social Service,3.8,1,2,0,1.0,0,Yes,High,No,Yes,Beginner
+5a2b19b5-6a7a-4eae-8c84-1fe5c135a81a,Journalism,5.0,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+f81ca4f5-4fcc-4417-8283-33d058c70e3c,Business,2.5,0,2,0,1.0,0,No,High,No,Yes,Beginner
+99c875c4-5604-45ef-bf29-0d25249fa49b,Architecture,4.4,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+c29525ca-1c63-4916-86b7-f19901d60ad4,Architecture,3.9,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+745bb7ed-7760-4f62-be38-7a4d7379a455,Architecture,2.1,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+4f244ccd-325c-4ede-b73f-775823084040,Journalism,2.8,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+4437f4c0-9270-4c78-9ea4-df9e25e638bf,Medicine,4.1,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+ae363312-e072-40f8-8ad7-8448ff97994b,Commerce,3.3,0,2,0,0.0,0,No,High,No,No,Beginner
+acdad182-0933-41b5-bbe2-0fa01ba9b317,Architecture,4.1,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+1dd29557-e19d-4db7-b5a4-eee162b9cd8f,Business,2.6,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+7ceccc66-53ff-4bb2-838a-a34d26276372,Architecture,3.8,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+c634f236-67f3-419e-a8d9-b848eb0bb17a,Commerce,5.0,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+a307884c-589c-43b4-8954-959f91a79d11,Journalism,4.0,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+fc0b7af1-9ee4-42ea-8600-ec6ea56e9b97,Medicine,1.0,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+e816b7ce-ea2a-466c-8b89-f96242ef003e,Medicine,3.7,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+146d8fa6-5ede-4aed-904f-922361f997dc,Law,0.3,0,0,0,0.0,0,No,Low,No,No,Beginner
+76303d76-4654-42d4-909c-aa968df25ac3,Architecture,4.2,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+fdeb90ef-5105-428b-bf86-fec540535515,Social Service,1.1,0,0,0,0.0,1,No,Low,No,No,Intermediate
+65ede176-9f38-4caa-bb60-4ad9a0c09948,Law,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+0e19a3f3-dafc-4c6c-949c-e7e82dd31f0c,Commerce,1.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+6b66709c-f75c-4565-9c69-3378d07193ad,Law,2.6,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+45faa960-7a03-48df-986a-19a3cb5adee8,Commerce,3.7,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+1b78681c-bfeb-4b96-a436-55fd1f8af5cd,Business,2.8,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+b166e3d4-162d-4f27-81b6-4f9bd6516c12,Architecture,4.4,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+88591cf2-4b5a-4cad-8039-d58645b1ec73,Social Service,5.0,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+e4cdba88-cedc-44c1-b74d-1c699160dc1a,Medicine,4.9,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+42eae368-2545-48c9-a0e0-5d4d8a28213f,Architecture,5.0,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+c882cc54-6a1e-4808-a0a5-3418d6c6e70f,Architecture,4.9,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+cec79872-8c8a-49c9-b767-69db1d33533e,Law,1.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+31ee8bd4-a8ad-478f-b703-91bb47b9bf26,Business,4.6,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+3c8ad47e-f6ff-4be1-aabe-a639d5463762,Social Service,0.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+9e0135b3-1088-4091-b054-dea3c58d669e,Commerce,2.9,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+a67cfecd-da92-4bcc-8fb4-c1b442b15210,Medicine,3.0,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+e97f2320-c39a-4648-9719-b87803a09185,Journalism,1.1,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+cb89c9e8-f0b5-47b8-abc8-e319f4c439b1,Medicine,3.4,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+7aa10ff0-b42d-452c-8ddd-c5e1a54d04bf,Medicine,3.7,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+bfa9306a-e51b-4600-ab7c-2501d13a2819,Journalism,2.7,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+990ccb8d-5ba8-47fd-9d34-732ea4a14aca,Medicine,4.1,0,0,0,0.0,2,No,Low,No,No,Advanced
+d0f4379e-f045-415e-ad79-d32668a0da9f,Law,4.5,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+d92c1b20-2bc5-47d7-9773-2c696edf284f,Business,4.0,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+b2c9ff1e-8673-4423-b34a-76fbc618b6e1,Architecture,2.8,0,1,1,1.0,1,No,Medium,Yes,Yes,Intermediate
+1e81c07b-f357-4d8d-ab29-acae5ff295ac,Journalism,3.0,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+8e6c0095-c8ca-470d-9e3a-a6753514d490,Law,4.3,1,2,0,0.0,2,Yes,High,No,No,Advanced
+9f4cd275-7079-4f63-8a88-ed75a87d7c58,Business,3.9,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+b746c342-1411-46ae-a5d8-ff970d6bc3c2,Social Service,5.0,0,2,0,0.0,2,No,High,No,No,Advanced
+0f6f5997-ecca-4950-9999-62646209031e,Commerce,5.0,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+67cd4aa3-5349-47b4-b78b-180742407434,Coding,4.1,1,1,1,1.0,2,Yes,Medium,Yes,Data,Advanced
+5014347f-b2d0-44c6-9a35-4c21a6099d75,Commerce,1.6,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+fc16b715-918a-4ff7-8d9f-8c9bc9cb6ab5,Commerce,4.8,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+9ba57e78-094e-41f8-8719-762f5a1c016c,Law,4.5,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+6b00bec5-6590-4401-872b-c933d0103c52,Business,4.7,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+279af927-6fdb-4c2e-bc65-5702e4aed295,Medicine,4.0,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+5b2a2595-4752-49da-a56b-8b6d8f265a11,Business,0.5,0,0,0,0.0,0,No,Low,No,No,Beginner
+9b71f14c-e9d6-42c7-8b60-fbf37892b22e,Architecture,5.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+488fe2c7-7140-4491-aa93-f5001a6fa264,Commerce,1.9,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+efc93b1f-aaab-46a9-8437-651826ac0f0e,Law,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+badb82c1-24f9-4054-9862-66e305fb2df0,Architecture,3.2,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+920535ad-e8ba-4f11-a1cf-6a3d943ac0bf,Journalism,2.7,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+2f4e6c9f-291f-4a71-8352-e7d295e310a4,Business,2.2,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+646139d3-769b-4bfa-b831-4092a136a798,Business,5.0,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+b19542df-a9e2-42fe-8224-9fda327d7441,Business,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+0f44302d-a742-4d52-b62f-61e8289c4bae,Commerce,4.0,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+a91a7887-59bf-49ec-9f78-175ac8c68013,Law,0.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+2b493647-8341-40c0-a76c-250076f05ad2,Architecture,3.9,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+b09f1d30-3ff5-45f1-81ed-158fa571e738,Business,4.4,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+755a41a4-734a-4a2c-ad75-fd57887a4388,Social Service,4.1,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+48a2ab57-0a9e-4a97-8662-a35b5133ba71,Architecture,3.6,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+cc0d361d-f798-43b5-97a5-30f57a7d0904,Coding,2.5,1,2,0,1.0,2,Yes,High,No,Data,Advanced
+79e46c66-563b-414f-8926-6766ce6e2890,Architecture,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+45eb473a-0012-4577-9dc1-83324265f0f8,Journalism,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+ef0cb024-2bce-4876-aaa2-bc26bcbbc456,Medicine,2.3,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+722af40c-7513-474e-a020-321e789a4a15,Architecture,1.2,0,0,0,0.0,1,No,Low,No,No,Intermediate
+395ef5f0-b945-4414-ae68-ac72b1ba98d5,Commerce,0.8,0,0,0,0.0,1,No,Low,No,No,Intermediate
+576ba82f-f926-4cc2-9e8c-768004ed9e90,Medicine,3.2,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+82e84a84-342d-4903-b868-5aba04410168,Medicine,3.3,0,1,0,1.0,2,No,Medium,No,Yes,Advanced
+c782a5f0-a6dd-4b27-9720-1a99a3df54ea,Medicine,2.9,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+2cd867c3-1681-4dda-9663-70a893242cdd,Business,2.9,0,0,0,0.0,2,No,Low,No,No,Advanced
+2836a691-1d61-4aaf-926d-ac136e7c69f2,Journalism,2.9,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+be7fa9cb-dc30-4e0d-a648-9112d992e1a7,Medicine,4.6,0,0,0,1.0,2,No,Low,No,Yes,Advanced
+5d94a3cb-8208-4e6b-ae82-17425d16e7f3,Commerce,2.0,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+de28c057-95f8-481e-ab2e-39381a5742a4,Commerce,2.6,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+ab5c49f7-be30-4276-9882-d89eedd880d6,Commerce,3.7,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+defcbadb-e9c6-4378-9c6e-aff0e18da66a,Law,2.5,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+af02a282-f386-4aaa-ab29-92ea656e0325,Coding,2.2,0,1,0,1.0,1,No,Medium,No,Data,Intermediate
+c69259ba-0663-4a11-9873-013005909c8e,Commerce,3.7,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+da8f6bb8-ce6e-4109-be5d-dc47581ea9da,Social Service,2.2,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+13b92aa1-b359-434a-bcf0-b38ee1180ede,Journalism,3.9,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+f24c51da-f75f-4bc5-a667-51f7e957f573,Architecture,1.7,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+24bcadc5-f04c-4ae4-8ec6-0619c6a3e87f,Commerce,5.0,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+397d2cf7-e42e-4bf4-8378-ab2f4e1356cf,Social Service,5.0,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+b6aa2de5-242d-40de-9ad7-a144c017dc56,Social Service,3.5,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+fcdff275-d6cc-4892-b3a6-76c594bea02d,Social Service,5.0,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+c40e330e-b7ab-4308-8acb-405ac4187ba6,Law,2.5,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+6b4b9407-fcaa-4460-9149-de33e13157b2,Coding,2.5,1,1,1,0.8,2,Yes,Medium,Yes,UI,Advanced
+fef7bf88-ac04-48ea-8e01-7dcc6d970a74,Journalism,1.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+70b0d56a-5eec-4683-bb45-7e2a3cecc5bf,Business,4.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+b85d2672-4a56-4a3e-b18c-94bdf61b3df6,Social Service,2.2,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+8e7224ca-af93-4b9a-a95b-a51f60110f76,Business,4.2,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+f7893d52-a00f-4500-8d90-84acfc0e73c0,Medicine,2.1,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+64d0f7c6-a678-4540-815d-59f6c603adaf,Medicine,3.2,1,2,0,0.0,0,Yes,High,No,No,Beginner
+76240540-cfc7-4a66-bad3-9a8ff0d769d0,Commerce,5.0,0,2,1,0.0,2,No,High,Yes,No,Advanced
+2dd573cf-7fd8-44a7-85e4-c3b3771d7025,Medicine,4.5,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+2866e9c9-e66a-4c9b-b999-500d9db140e1,Medicine,3.9,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+c5ad6838-262c-44c0-ad08-c21499ef3e0a,Journalism,4.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+32ed7dca-3e0b-42dd-8bf9-5c668df9ba5a,Journalism,0.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+dcc54270-41f7-4a4c-b5bb-0ac9ed90dd5b,Social Service,0.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+c49b07a7-38cb-4c57-9e0b-d202081bf5f4,Medicine,0.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+f0e616f0-df64-4e54-bf18-acf5e80d70c8,Commerce,4.1,1,1,0,1.0,2,Yes,Medium,No,Yes,Advanced
+d50703f5-f17f-436f-9532-b3ce35e78fb2,Coding,3.8,1,0,1,0.8,2,Yes,Low,Yes,UI,Advanced
+78548d64-8cfc-44b3-830d-897dcfbd898b,Commerce,4.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+9382741a-0415-46a3-a7fd-363d64118e0b,Business,2.0,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+337d4cb0-556c-4842-bb86-89c938a5fba2,Social Service,5.0,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+7bd31e65-5b4d-4070-b78c-550078925859,Coding,4.3,1,0,1,1.0,0,Yes,Low,Yes,Data,Beginner
+cfc3c0ec-fb6a-4daf-b2a4-96332c430677,Architecture,1.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+e0f0566f-2302-458c-b0a3-deb48878d979,Journalism,1.8,0,1,0,0.0,0,No,Medium,No,No,Beginner
+eba0e246-64a8-43cb-9414-03af1a82bbcf,Coding,2.9,0,0,1,0.8,0,No,Low,Yes,UI,Beginner
+9a629e14-46d1-49c0-a237-64daf5df6758,Architecture,5.0,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+31fd1ca8-2fdc-49f6-96dc-cc6aff16e5ca,Social Service,2.5,0,0,0,0.0,0,No,Low,No,No,Beginner
+66a4f415-77fc-4870-97cc-12637800cf8b,Medicine,2.2,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+14b0d7ec-2bf0-4596-924e-97d62e64b090,Business,1.2,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+7a9df690-5ee1-4593-abc2-6472fce9755c,Commerce,2.6,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+9a0dbcf2-5c98-4ea1-8a9d-6e676daa3ade,Architecture,4.1,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+1cbfe065-db4f-4717-a317-67b209ef0e6c,Journalism,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+16ae7b15-b2ea-4df3-be83-59501c8e9fab,Coding,4.1,0,0,0,1.0,2,No,Low,No,Data,Advanced
+3c062a57-e6cf-4196-9c7a-27f43be2d6c4,Journalism,0.9,0,0,0,0.0,1,No,Low,No,No,Intermediate
+4e9d8940-4054-4033-9aef-96d741df6d8a,Coding,1.7,0,1,1,1.0,0,No,Medium,Yes,Data,Beginner
+ffc7e9ac-7886-4c8e-b96b-c8a352ee4413,Law,4.6,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+2163fad6-f6b2-4725-88a9-07f5f45c228f,Medicine,4.6,0,2,1,0.0,0,No,High,Yes,No,Beginner
+c0396fac-f9aa-4e14-aa59-6f9c54d16f44,Medicine,2.1,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+e04cddcf-529f-4ddf-9633-860a4bb23406,Law,4.6,1,2,0,0.0,0,Yes,High,No,No,Beginner
+1937a9e8-ec8a-48c5-8fb9-79abd4ad096e,Business,4.7,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+a657f808-1f4b-4cf3-86ee-c4d4be4813eb,Social Service,4.8,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+d7b12f1f-ce1d-4a6f-be90-e5cc5e41e033,Coding,3.9,0,1,0,0.8,2,No,Medium,No,UI,Advanced
+4417a853-f927-48a8-9149-7e12d413f732,Coding,4.0,1,0,0,0.8,1,Yes,Low,No,UI,Intermediate
+1d76a419-3f0d-4d85-856e-5f472c5e0ca0,Medicine,5.0,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+1d6aaa99-52a6-45bd-a912-e6a75d315063,Coding,3.0,1,0,1,0.8,1,Yes,Low,Yes,UI,Intermediate
+ba53cdac-28bc-4205-a145-2e494eeb8341,Social Service,2.2,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+69f47f16-9e86-47e2-9fc7-a296bf377d48,Law,3.9,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+7c3c3a58-daf7-4b99-aee8-f42067d58d66,Journalism,3.7,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+25304fa4-fc07-4726-9747-2f4266460fe5,Architecture,5.0,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+53e47dc3-8d18-44be-aa29-4d281ae34412,Social Service,3.8,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+64389398-12a0-4142-81c1-6bb291de0f37,Coding,5.0,1,2,1,1.0,2,Yes,High,Yes,Data,Advanced
+7c1518ec-2add-4486-9edf-14741ca469c3,Journalism,4.1,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+b5d27ed4-9438-4429-af1a-2e7995e68620,Commerce,1.8,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+479ec967-0ac3-4957-b1fe-b5565daf631a,Journalism,1.3,0,1,0,0.0,0,No,Medium,No,No,Beginner
+1a719363-ec69-4050-8296-36d52687c652,Social Service,3.1,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+b3fbef5d-0976-4d6e-8ec9-431efc625421,Coding,5.0,0,2,0,0.8,0,No,High,No,UI,Beginner
+b389817b-3c9e-4df8-bd81-d913af8b7a9e,Medicine,4.3,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+7dfd8ec0-2f3f-42a5-9af0-1d968a8db612,Medicine,4.0,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+f16ed60b-25af-4c7b-a959-8d0a302b103e,Medicine,5.0,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+024e2b2c-2fd9-4e36-9acd-2ca7de980f3c,Social Service,5.0,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+40bbf101-176b-4d64-9ecb-9021837dc62c,Social Service,0.0,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+537120a4-5bbd-419d-9fa4-5a0878a6affe,Journalism,3.0,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+fe6d1b15-239c-4509-b07d-57d6bcc070ba,Law,3.3,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+ab9aa9bb-b197-45df-8681-b2d49358ac56,Business,0.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+6ae67f7d-a9c8-44ae-bb41-3760c1a53f21,Architecture,3.9,0,2,1,0.0,2,No,High,Yes,No,Advanced
+75b83084-6b1a-4e6b-b756-4a5ad524738a,Law,2.8,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+9ec5f18d-1274-4dad-9900-f525731e4544,Commerce,5.0,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+1ff06d61-d15c-48b6-9a9b-4440cf1949bb,Architecture,1.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+2c11cff0-1fe2-4216-a888-e9a4297f912e,Medicine,4.9,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+5f1f8a22-3d46-4fbf-98c8-76a4926ca7ec,Journalism,2.3,0,0,0,0.0,1,No,Low,No,No,Intermediate
+9c9aa87a-19fb-4cc4-a90d-26788a0e39d9,Coding,3.8,1,2,0,1.0,2,Yes,High,No,Data,Advanced
+d396ec89-1a4f-4074-ad73-d956ce8e5ddf,Law,0.9,0,0,0,0.0,0,No,Low,No,No,Beginner
+50d4d940-fcf0-457b-b1de-f629a572e7ab,Coding,3.9,1,1,1,1.0,1,Yes,Medium,Yes,Data,Intermediate
+8804f753-0593-4ebe-ac71-b72d23f20a2a,Social Service,0.9,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+27c7cf61-0f1e-44a2-9622-b919b37746d2,Coding,2.9,0,1,0,0.8,1,No,Medium,No,UI,Intermediate
+230a3611-a80f-459c-a007-9c229509bceb,Commerce,3.0,0,0,0,0.0,2,No,Low,No,No,Advanced
+294faa2d-50c4-49d6-a42e-c21cf66b2bae,Architecture,3.2,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+2abc24b4-fe7f-4ef6-8446-6a01d97c8a12,Coding,2.9,0,2,1,1.0,0,No,High,Yes,Data,Beginner
+72024dac-6b22-4460-a743-391a52c76325,Journalism,2.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+a749a8ad-7895-4e55-9d8c-93e5306a3340,Business,3.9,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+668cd5d3-6dc1-4d3d-b3a3-3b895fb7e720,Architecture,2.8,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+b576b5b2-ff5b-4ecc-aca2-b8295acb9649,Commerce,3.8,1,2,0,1.0,0,Yes,High,No,Yes,Beginner
+22c5034b-0910-4842-9eac-7173ea456f54,Social Service,1.4,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+8ffab100-30bf-44f7-b7fc-56058b6cd946,Architecture,4.1,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+10cff5eb-d902-43cf-92c4-0097f9d34143,Journalism,2.9,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+d7bb0417-5f1f-442c-a4bf-8bd5f4a5d994,Journalism,2.2,0,0,0,0.0,1,No,Low,No,No,Intermediate
+4719b5ec-4687-4019-8692-9029c3512dca,Commerce,3.4,0,1,0,0.0,0,No,Medium,No,No,Beginner
+ab3b3ed3-3e44-4748-a873-dde412287a32,Social Service,0.4,0,0,0,0.0,0,No,Low,No,No,Beginner
+06390249-f59f-4cab-9f72-d24e472314c4,Business,1.2,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+3028b897-ef26-464c-bf0e-303ee108113f,Architecture,2.4,0,0,0,0.0,1,No,Low,No,No,Intermediate
+32ee3ddc-d6b3-48ae-9c63-044f81a8fcdd,Commerce,3.8,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+ef482fa5-5d24-40c7-bec2-d35a469ade30,Journalism,2.9,0,1,0,0.0,2,No,Medium,No,No,Advanced
+a0198127-f6a6-4c87-9540-5f78812f4cea,Journalism,3.7,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+211f9553-22c2-4f1f-84ba-3b5b68556802,Business,4.1,0,0,1,0.0,2,No,Low,Yes,No,Advanced
+f4c53602-c690-4158-8df7-0cd1b32eab3c,Journalism,0.4,0,0,0,0.0,0,No,Low,No,No,Beginner
+da5efc6c-7a29-46b1-9f82-0d7ed7b3e5a1,Architecture,4.8,0,2,0,0.0,1,No,High,No,No,Intermediate
+64a27c46-2afc-458a-a09a-fd5866de0f29,Medicine,1.0,0,0,0,0.0,1,No,Low,No,No,Intermediate
+8c373011-608a-43df-a017-30d9c38f4da9,Medicine,2.1,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+2f41eba6-204e-46d6-88b6-b45ba34b79e5,Social Service,2.8,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+a554145d-673e-48d5-8fed-68d9bcf77948,Architecture,3.9,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+ba735258-8922-4da0-bb70-39499ec59f66,Law,4.2,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+c04cbcd0-738c-4ee0-bd57-ad2b894c5196,Medicine,3.1,0,1,0,0.0,0,No,Medium,No,No,Beginner
+4f322cd2-9196-403a-8db2-e3442600f020,Social Service,2.5,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+300e7d6c-dc71-4e2f-bf50-e5b96345558a,Law,4.2,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+13a4fda7-b1f8-475c-bd5e-7d600cf6053d,Law,3.7,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+d521f783-4b55-44eb-be54-45e450ffd6b1,Business,2.0,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+ddd4f0d6-37f0-43eb-bc80-993dd19cb1f7,Journalism,4.0,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+05d3f57d-e7d0-462c-8538-dbfbf1187bb9,Commerce,2.1,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+02d767a0-8cfa-4784-bfe4-95368853e6b5,Commerce,2.9,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+1a949a1a-34af-4d02-91ff-01447f71841a,Coding,4.8,1,1,1,0.8,2,Yes,Medium,Yes,UI,Advanced
+d98ee2c2-c9ba-46c8-9ad9-a1a9a3622370,Coding,3.9,1,1,1,0.8,1,Yes,Medium,Yes,UI,Intermediate
+7b2bb248-381c-4319-8313-86f48dfafebc,Journalism,5.0,0,1,1,1.0,1,No,Medium,Yes,Yes,Intermediate
+d695d97a-dbb5-49f3-8d58-04dc66f0cd46,Commerce,2.9,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+9debe0fe-b5bb-45b6-ad73-644048d95ebb,Journalism,2.8,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+29fbd2a8-0e8e-4f5d-a9d7-4f431c44f78f,Law,3.4,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+c3001005-b240-40cb-aa44-787330c59e18,Commerce,3.0,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+a148864d-111b-47d9-abb8-e0c211264bd9,Social Service,4.3,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+b69a1fbd-746c-4512-ba11-7bbdd68b6eea,Architecture,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+0da54615-6ac5-4101-9d1f-fda52ae99e47,Journalism,2.9,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+512796db-2334-4878-901e-05c962b7ddb6,Architecture,1.3,0,0,0,0.0,0,No,Low,No,No,Beginner
+f734500b-6bc0-45d2-a710-66bf0788f895,Coding,3.3,0,2,1,0.8,0,No,High,Yes,UI,Beginner
+f1a54432-9aeb-4dcc-83de-621e7613c5c0,Journalism,4.1,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+d8528079-58bb-4a52-8e2d-fd307df7151c,Business,4.7,0,1,0,1.0,2,No,Medium,No,Yes,Advanced
+9f9a9a78-556c-4488-8916-a6eecacf369c,Coding,2.7,0,0,0,0.8,0,No,Low,No,UI,Beginner
+d9b1f1bb-9637-4afc-afb4-c12204e4c110,Coding,3.8,1,0,0,0.8,2,Yes,Low,No,UI,Advanced
+a412caf7-f9b5-4144-a24f-75f705e4d996,Architecture,5.0,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+8d12bcc6-3e80-46bb-ba0f-bcac5715cba2,Commerce,1.8,0,0,0,0.0,0,No,Low,No,No,Beginner
+a430e80e-00a7-4655-a369-8828c0881d5b,Social Service,3.1,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+b8f91efb-4d1d-4021-a364-af7ff7a3cd4f,Commerce,3.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+1b2a5157-ddd1-4203-ae39-25cf9c1d0aa3,Commerce,5.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+53598487-51d8-4694-b3c3-9dd542249274,Social Service,5.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+34c48edc-6161-4fb7-a658-93a22f4403a8,Journalism,1.0,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+5e19b9be-2549-408e-828d-bcd5a5d07ad9,Architecture,4.0,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+7f666be4-99f8-4acf-a551-969342e34db1,Commerce,4.4,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+44b31a4d-fa46-4ee3-aa1d-78deca59766e,Medicine,2.7,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+e27cd455-8750-4982-8bdb-7915df54b891,Law,3.7,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+5eaeb1fb-1597-41d9-bc49-7faefe4c56d7,Business,4.1,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+bfff2811-00f0-485f-87d7-a693e38f0c76,Coding,3.4,1,0,1,1.0,2,Yes,Low,Yes,Data,Advanced
+4ffe0f4f-fb4c-4586-9328-3455c03b2e17,Journalism,5.0,1,1,0,1.0,2,Yes,Medium,No,Yes,Advanced
+6f9bae7c-6dee-481e-8116-a8479cb053a4,Coding,4.5,1,2,1,1.0,2,Yes,High,Yes,Data,Advanced
+4cd1b840-6c9f-47d1-bed5-f225f37234ce,Business,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+819ac4ad-519c-4e85-bea3-dfd3aff6340a,Medicine,2.4,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+c548176d-1c37-45ba-bce8-87ea1c0ca4f4,Medicine,4.9,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+8df9dd54-bf14-488c-81a5-851184332188,Commerce,2.8,0,2,0,1.0,0,No,High,No,Yes,Beginner
+8f8ca8b7-673f-4b4c-8fe5-995d6ec0cab9,Architecture,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+4669d87e-8e38-4ee7-9479-b262fb019e6b,Social Service,4.0,0,1,0,0.0,2,No,Medium,No,No,Advanced
+34543ee6-3609-45c6-9850-61ec79885340,Business,5.0,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+69eac553-e5bb-47bb-b165-90d61f967807,Architecture,2.0,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+7fb54539-2bb4-4ff2-8e90-12867ce3da8b,Business,1.1,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+4942bfa0-a718-4421-9f3d-8b65d86743ee,Commerce,1.8,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+a6094470-bf9e-48be-8209-5ae406988e3b,Social Service,1.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+05eb7f24-7b4a-4306-9584-a21aa64ea1af,Social Service,4.2,1,1,0,0.0,2,Yes,Medium,No,No,Advanced
+16c77f4d-7ee5-46ef-bcc5-7dca456a8e73,Coding,4.1,1,2,0,1.0,0,Yes,High,No,Data,Beginner
+e3d14292-583b-4cdc-a920-268fc541befa,Social Service,2.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+91aeb7b5-d8b9-4c66-9048-5350e8a5034d,Coding,3.9,0,2,0,1.0,2,No,High,No,Data,Advanced
+d1406024-455a-458e-aed0-499252c6e836,Social Service,0.0,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+fde38aff-b1c9-475b-82f5-0a3e973297b1,Architecture,4.2,1,1,0,1.0,2,Yes,Medium,No,Yes,Advanced
+d9b38fd6-207a-41d5-852d-9952e7bdb70e,Medicine,2.2,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+4fc8d3d3-fc6e-41f2-93a4-8e8684469356,Business,2.9,0,0,0,0.0,1,No,Low,No,No,Intermediate
+11a7d839-a5fc-4b3b-a3cc-ed99ea3e91c8,Business,4.1,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+397f9467-4bba-43eb-ab84-6a072819999f,Business,1.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+cabb2719-6d0e-4a36-8121-5ffff6c72669,Medicine,4.8,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+1bfe6087-5242-4539-8941-59d1ead40269,Social Service,4.5,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+d2e29490-8eb3-4d1e-9f1d-479131cf7cc3,Coding,5.0,1,0,0,0.8,0,Yes,Low,No,UI,Beginner
+f716df9f-586a-4ca3-8c2c-8275dda4314c,Law,4.7,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+20955d92-1878-4866-85de-94c6577941cc,Journalism,5.0,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+c08bc90c-ad87-424a-9ada-aa3e654d458d,Journalism,4.9,1,2,0,0.0,0,Yes,High,No,No,Beginner
+a30c9030-7e31-4ec5-980f-3065d45705ff,Business,0.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+d32765a1-27b3-4d07-8e58-c0ed5e7765cf,Business,3.0,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+d9e3f163-6aef-429c-ba7f-3aee4e1d6208,Journalism,1.1,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+861a8328-5081-4944-b749-791b0b4787de,Coding,5.0,0,0,1,0.8,0,No,Low,Yes,UI,Beginner
+b52edf8e-531e-4711-8672-55107ccd058c,Social Service,0.9,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+798a551e-3ad9-4b57-b6d9-2c6b2d2b81b8,Coding,1.9,0,0,0,1.0,1,No,Low,No,Data,Intermediate
+4de1594b-eee9-46b6-8d12-e343016674fd,Coding,4.5,1,2,0,0.8,2,Yes,High,No,UI,Advanced
+c507dab2-f584-4a82-980b-6ccdaec0dfd6,Law,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+d4bd4a31-b517-498d-b731-91669c0ce7c9,Journalism,1.0,0,1,0,0.0,0,No,Medium,No,No,Beginner
+18d33474-44d8-4a53-8403-8e30897d3005,Law,2.9,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+2176fa23-36ee-413c-bb99-a71c00339e8f,Business,3.6,0,1,0,1.0,1,No,Medium,No,Yes,Intermediate
+243fd254-8566-40c5-9de3-60f407da2ad2,Social Service,4.1,0,2,0,0.0,1,No,High,No,No,Intermediate
+e3751b85-d1fb-44b3-8f3e-7d5ca166cfe5,Journalism,2.1,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+c357a162-ee09-43cb-84ad-d8812ff341cb,Commerce,2.3,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+e98cae4b-a484-46f9-a458-9f5d8a6853be,Social Service,3.9,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+0c4df571-8d16-4854-b763-3bb1fe364b47,Medicine,4.2,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+d217f171-1747-418d-8190-4f3192ddd950,Commerce,4.6,0,0,0,0.0,1,No,Low,No,No,Intermediate
+408c5c37-5ef7-4a96-b305-d5885fff9fef,Commerce,4.1,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+6eea9e8d-dbd8-4fe8-bd15-95f67bf063d2,Social Service,3.6,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+2c9bff59-9a1a-4063-b641-18ade95da276,Architecture,2.8,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+f0915819-6ffe-488b-89de-f9775e8f5cfd,Architecture,4.8,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+7e962d16-3674-4caf-9bbc-f1e4852ad94f,Commerce,1.8,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+97b39b5b-e3d7-41e6-ba02-d7472b48a651,Medicine,3.7,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+b58e69cf-b8fc-4bf8-9a0c-5ee8cc1898be,Business,3.2,0,2,0,0.0,0,No,High,No,No,Beginner
+b8db1ff7-77fd-48f0-9ce4-6fdcf1a36c44,Law,1.2,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+d732fdb0-e904-4e4c-9c1c-071c76eab176,Commerce,3.8,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+ef39f1e7-9dd8-4677-aaa7-83aaf8a279d8,Coding,5.0,1,2,1,1.0,0,Yes,High,Yes,Data,Beginner
+ae7e9ae4-bfd4-4ff5-bca6-cabf6880d04c,Business,5.0,0,2,0,0.0,2,No,High,No,No,Advanced
+291d89fa-4771-46b7-b5c0-2e164df7af80,Medicine,5.0,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+5e9d79ed-72b2-41f1-a56e-72a7c488ba57,Medicine,3.7,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+d502c62c-46f8-4e3a-a0bb-302caf385623,Medicine,4.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+13513c71-7de9-47d3-b2af-5d79d51d701c,Commerce,3.2,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+237d1745-04cd-42e7-9cc8-b52697c08f2e,Business,2.7,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+fae6ee44-a086-402a-a9f2-88bfc2611618,Social Service,1.2,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+272b0163-018e-43e2-9eac-74f4ffd4d714,Law,5.0,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+b1b97a8c-d0d3-47a5-bc14-8fc44e630797,Journalism,3.6,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+8da79ff8-d188-45b3-a7d9-962003f58901,Architecture,4.0,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+227a44f8-0ac5-43a5-837b-8bd89a20138e,Coding,3.3,0,1,1,1.0,0,No,Medium,Yes,Data,Beginner
+260a39d5-bb19-4c0f-baa3-0902a77b3ee4,Architecture,5.0,1,2,0,0.0,2,Yes,High,No,No,Advanced
+8ba8a282-ea09-47b9-bd9f-95bc7a28aa08,Social Service,4.9,0,0,0,1.0,2,No,Low,No,Yes,Advanced
+1e01aa50-6623-4fce-9a69-1fd2f411730a,Journalism,1.2,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+c4aefd33-aba2-4566-b780-3c2edbecf69f,Coding,4.3,0,2,0,0.8,1,No,High,No,UI,Intermediate
+c04bd1c8-358a-4bde-9e6f-bafe211f9b21,Business,1.0,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+808595d0-bb33-46dc-946d-5aec67ef0204,Commerce,1.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+f896371c-4214-4f03-9a43-02c82405df15,Commerce,4.6,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+837854bb-0e1d-4036-9fc0-77877ee3472e,Journalism,1.0,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+84b8f99c-99cf-43a2-bd2b-cd1f3fc76067,Journalism,1.7,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+357c87d5-25b2-41fe-8b31-7d8fde3bfc70,Commerce,3.3,0,1,0,0.0,2,No,Medium,No,No,Advanced
+06439027-e508-417c-93a2-a0e14acd08d6,Coding,1.1,0,0,0,0.8,0,No,Low,No,UI,Beginner
+618f86d1-b68c-4ded-8e31-bd5e9af2a196,Law,4.7,1,1,0,0.0,2,Yes,Medium,No,No,Advanced
+a452a8c0-fd54-4618-9930-787072fbffa1,Medicine,4.6,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+daf5bf68-3bfc-488f-81b3-de6e822dba98,Coding,3.9,1,2,0,0.8,1,Yes,High,No,UI,Intermediate
+428062fd-5d19-4099-ab47-f325a824c532,Architecture,3.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+7a4e2b17-d638-4644-bcc7-26a413146102,Coding,2.8,0,2,1,0.8,1,No,High,Yes,UI,Intermediate
+f49bd07c-39b0-4243-b846-6fbe73e902ca,Business,4.5,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+12c6d811-1755-4335-b954-e8b525e85170,Commerce,4.9,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+86c175eb-d144-4d71-8303-dfdb61e9f948,Architecture,3.4,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+6c3c5526-439e-4227-8a09-d8bc1895e549,Coding,2.2,1,0,1,1.0,1,Yes,Low,Yes,Data,Intermediate
+9a43db7b-38b4-4dbe-b1c9-096e9451fba4,Business,4.5,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+c5084b3a-819e-409b-8a4b-362129afb4c7,Social Service,3.9,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+f7ab5dee-ccf5-41ec-b8e8-04a4b2975ca0,Business,3.1,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+f22f8292-0ff4-4f8b-929a-c6da156a3979,Coding,5.0,1,1,0,0.8,2,Yes,Medium,No,UI,Advanced
+6b892fc8-c0f4-4568-8ec6-853dc540079c,Journalism,3.1,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+28d9af8d-8d86-4e1a-a870-40ab69126502,Business,5.0,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+4d2b80d3-f9fb-4b6d-aadb-6a13d567600e,Business,2.5,0,0,0,0.0,0,No,Low,No,No,Beginner
+4e67bbec-2c68-4cf2-a90e-d9b8b7c18911,Coding,1.2,0,1,0,1.0,1,No,Medium,No,Data,Intermediate
+14f54574-44d3-40b9-8557-bac4e4b6d795,Medicine,3.7,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+2d216b41-e9ee-4993-8ff5-582eafc81aed,Coding,5.0,0,2,1,1.0,2,No,High,Yes,Data,Advanced
+4c241d93-0ce6-451d-be20-ba2cd2e3f5be,Journalism,4.9,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+b3c56f32-3092-400d-b22a-be21c0e05812,Journalism,4.1,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+bee47076-d42f-410b-92f7-fdb08ad33797,Social Service,3.3,0,0,0,1.0,2,No,Low,No,Yes,Advanced
+c09f7c63-af07-43dd-97d0-8be635b56903,Business,3.3,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+fb64c42c-826d-4206-8af7-11c0236cba86,Architecture,3.0,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+2db87c60-28fc-4327-9817-895e0b2c9b44,Medicine,4.3,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+aa1f9ca6-1efd-4f17-8990-867a4119e1bb,Law,4.9,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+e86fb166-000e-4fa1-bc98-87ad23dda3c2,Journalism,3.4,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+58979efd-800c-4e7b-9e0e-914ad1fc96be,Commerce,5.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+53b18517-c9ec-4665-8127-579218a3cb61,Law,3.8,1,2,0,0.0,2,Yes,High,No,No,Advanced
+905c3e46-7987-43dc-8bdb-210fc70b513e,Commerce,1.6,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+ca9a9b55-7d15-4081-8dc3-e12b46ee3c17,Social Service,3.0,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+07113ab1-5e7f-44c8-9aa8-8c638538d299,Coding,2.6,0,1,0,1.0,0,No,Medium,No,Data,Beginner
+8f8513e6-81e5-4d68-b277-8085de565a64,Social Service,3.4,1,1,0,1.0,2,Yes,Medium,No,Yes,Advanced
+daf86f75-9f85-415e-bf03-9c9317de2596,Journalism,3.2,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+266fcfd8-5b92-40dd-9d12-de723978bcc2,Law,4.1,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+3c6d9d29-dc87-4fe7-8496-a9f82998cf3f,Coding,0.0,0,0,1,1.0,0,No,Low,Yes,Data,Beginner
+ea028a99-ac95-43af-88bf-82d7767831c7,Business,2.4,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+1a58be20-7803-4cc4-88cf-6a99c2d2ca26,Social Service,3.8,1,2,0,0.0,0,Yes,High,No,No,Beginner
+44e3c219-3848-458c-9674-c43b230d467a,Coding,3.2,1,0,1,1.0,0,Yes,Low,Yes,Data,Beginner
+dce5544c-baf1-489d-bc82-8b84f7039903,Social Service,2.1,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+8969b931-9378-416f-a4f6-bd1d1bca2f25,Medicine,1.0,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+05d6fd44-548a-437e-b09f-00a4fb2bbdff,Commerce,4.8,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+ea1029af-d6ea-4255-a137-796a4bcd39b8,Social Service,4.9,0,0,0,0.0,1,No,Low,No,No,Intermediate
+ea996513-61e0-4aa4-ab1a-cc479f082e3c,Medicine,4.9,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+e09ecde6-0d91-479b-a82e-d6cb74bb8623,Journalism,5.0,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+c036d4b6-41ba-4dad-9185-3ea388c85d05,Social Service,3.9,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+29d9c0cb-0127-4e46-9b19-8b8db9418afd,Social Service,2.9,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+183f7758-82e9-4a96-8948-69cc0c8b2caa,Commerce,3.3,0,0,0,0.0,0,No,Low,No,No,Beginner
+7190b52a-74e7-4623-a5aa-89f142d84559,Law,4.1,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+ac8300db-a43c-43c1-87f2-636f2fa3cc7b,Journalism,2.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+e647e946-ef14-480f-a721-f1ee4c763037,Journalism,5.0,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+4c3193e5-26ca-4a82-b6cd-ebe5d548b5bd,Architecture,1.1,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+4cb4ecbd-ae14-445a-a22e-904b919f5b7a,Law,4.9,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+ada01931-7f0c-4964-867e-8a4289eea882,Business,4.2,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+92690e30-3515-4955-9947-887f368ae5a5,Coding,1.9,0,0,0,1.0,1,No,Low,No,Data,Intermediate
+20f85193-44d5-4a9d-8843-3d268f735d6e,Business,3.5,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+37b2a22b-b407-4b30-8878-5e2f0ad237e2,Law,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+1015e56d-8b81-44d6-b32f-55881aaa8bed,Medicine,2.8,0,2,0,1.0,2,No,High,No,Yes,Advanced
+fb0df7d4-da9d-48cd-98bf-9bf3b3758f10,Law,3.6,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+9e8fc9e3-df25-4e9c-b54b-be382fda49da,Coding,5.0,1,0,0,0.8,2,Yes,Low,No,UI,Advanced
+4d395ee2-dd79-4260-8f8b-bb2ccc81b1a9,Coding,2.4,1,0,0,0.8,2,Yes,Low,No,UI,Advanced
+291f7c4e-53d2-499d-b292-1f55f907e3a9,Journalism,0.9,0,0,0,0.0,0,No,Low,No,No,Beginner
+545ee6ca-0903-4d6c-b9cd-bc2bae9964dd,Social Service,2.7,0,0,1,0.0,2,No,Low,Yes,No,Advanced
+65bbb008-63dc-4f18-b600-ea00c117b430,Medicine,5.0,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+c33ca614-c444-4361-bcc1-25e8c91554b0,Architecture,1.4,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+27b001af-dee1-44a8-8a46-578535bd30e3,Medicine,0.9,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+abfdfeaf-af18-496c-9b92-3d3a10a034aa,Architecture,3.9,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+059f80f1-e368-42a3-8368-c6189da3ff22,Journalism,1.5,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+275fca26-d161-4837-9322-ee2a4603014d,Social Service,3.3,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+f85754e7-dc0f-4794-8179-b3536c947639,Commerce,0.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+1939943d-9811-4f46-a668-7d3ee3961fbb,Journalism,3.3,0,2,1,0.0,0,No,High,Yes,No,Beginner
+8c29c382-622d-40cf-b0f0-ee39447303b1,Law,2.0,0,1,0,0.0,0,No,Medium,No,No,Beginner
+8aa59dc5-9696-4869-a7c7-4045ff65618e,Commerce,2.3,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+dab64669-7b51-41ff-a992-0f94bee54a61,Journalism,5.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+7c4938af-dd36-4af4-8ab3-cad17cc2ec84,Commerce,4.3,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+8bd68651-b1c2-4fd5-b729-f789bde2a19a,Journalism,2.5,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+ae82dc80-e2df-4105-be3f-7bbc5f291f30,Social Service,1.6,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+e8588479-c0cb-4986-8f1f-3e5638bfd3fe,Architecture,4.9,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+4a5ab9f5-e33a-4010-ad09-62e1220ee401,Law,0.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+4913a090-f611-4ac4-aa61-e276a92e1591,Architecture,4.3,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+7230d738-6823-4847-bced-4e5dfd047bbd,Coding,4.2,1,2,0,1.0,0,Yes,High,No,Data,Beginner
+bc5ad2d0-2aa5-4f02-8a78-0e774c3da5e0,Social Service,3.2,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+8fe2fcc6-97e6-4d07-9513-3177826519a6,Journalism,5.0,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+45bcbb6a-64e1-45d0-8523-9847d06e222c,Coding,1.8,0,1,0,0.8,1,No,Medium,No,UI,Intermediate
+fe632a44-89e1-4f43-ae53-7c6d8d789c8c,Business,4.7,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+b402f6a4-b719-4486-aaea-f05040a13404,Architecture,2.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+adcf41ae-5785-4fc0-9517-10935cdf4332,Architecture,3.7,0,2,1,0.0,0,No,High,Yes,No,Beginner
+750295c7-2252-43fa-a0f0-909b9a323b50,Coding,4.1,1,2,0,0.8,2,Yes,High,No,UI,Advanced
+fb0f6140-70ec-4f24-8557-a8049ba0e430,Architecture,2.7,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+5a02e126-3425-42bf-818d-0708c6bb6b63,Law,4.9,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+b9f0d5fe-ae92-4816-8051-3c0e9bcbd45b,Commerce,3.2,1,1,0,0.0,2,Yes,Medium,No,No,Advanced
+83081706-a645-457d-b93f-3ed5673332ce,Journalism,4.0,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+4c1d4542-1e36-4088-8ba2-1305f617e5ac,Journalism,2.3,0,0,0,0.0,1,No,Low,No,No,Intermediate
+ac1cc16e-deb1-4306-8b4e-33b0ffd37de6,Medicine,4.0,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+54bd2415-96cd-4423-a8e2-9891d62cc349,Law,5.0,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+c5b02498-98c9-4760-9351-f92679da020a,Medicine,0.9,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+ce89100c-f242-41af-acb8-0592f5923c41,Coding,2.0,0,1,0,0.8,0,No,Medium,No,UI,Beginner
+eaf1d16a-1f66-4cef-ad8f-5af765564539,Social Service,5.0,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+98212920-e612-4de5-b50f-bc2b90367c79,Business,1.8,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+bc08ab70-40ea-4c70-b3b2-0668e236a6d6,Architecture,2.3,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+d8f98196-6788-474b-9a1b-28d1cb2638f2,Medicine,4.6,0,2,1,0.0,0,No,High,Yes,No,Beginner
+420a9392-f52e-4f91-a834-8e415f5ed445,Business,4.0,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+3c0a3ff7-f5c2-43be-a5b4-29730c1fdc45,Business,4.9,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+dbdfe664-e197-4f85-9da8-1abccdc23b90,Social Service,2.8,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+d5a71b46-3148-48a8-b062-6f288b334c6d,Social Service,4.0,0,2,0,1.0,0,No,High,No,Yes,Beginner
+bcfda60a-42a7-4efc-aafd-0a999e566cdf,Architecture,1.8,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+a6adaa74-0caa-488f-8315-de5efe92ce3a,Social Service,4.5,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+4130e843-d910-4363-91b3-fa0b8ae7502c,Journalism,4.8,1,2,0,1.0,0,Yes,High,No,Yes,Beginner
+dee8b1a0-5d3a-4713-b0eb-cdbfbc85cc0a,Architecture,5.0,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+b8b40793-43a1-4835-b92f-690ee68d171b,Business,3.2,0,2,0,1.0,2,No,High,No,Yes,Advanced
+c9835af8-cde3-4cbf-82d0-dce87e75cb2d,Commerce,0.9,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+023887c5-8d6f-41d3-8be8-47c8efd7969d,Coding,1.6,0,1,0,1.0,1,No,Medium,No,Data,Intermediate
+93c002f4-9835-4257-8306-b49022951f74,Coding,4.0,0,1,1,0.8,1,No,Medium,Yes,UI,Intermediate
+332c3776-ea93-49f3-a140-99e7288ff298,Social Service,4.8,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+09a42408-68df-472f-8a2b-2f8dc346087c,Coding,4.9,1,2,1,1.0,2,Yes,High,Yes,Data,Advanced
+8fb72925-549b-4377-a219-51c1fd7d6c56,Social Service,3.4,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+21cd9032-baf1-4c95-b8c5-26dfa873c7a7,Law,2.3,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+476190a2-a5e8-4520-8aed-0806ce112b37,Medicine,0.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+42a7410c-c4ee-4e5f-b5dc-ddd0c1c2f147,Law,2.8,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+e9b6e38a-2d77-4865-88d8-d975243b4d96,Law,2.5,0,0,0,1.0,2,No,Low,No,Yes,Advanced
+58a7d407-594a-4f66-84f2-0ab7fd147490,Medicine,3.4,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+76d9ff96-71da-48b9-b528-bcd6bf956ed8,Architecture,2.4,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+eb9dad56-1879-48a5-b2d4-4e6d666fc7fb,Medicine,4.6,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+e6f221fe-11e4-4a9a-8481-c1ed825d71a3,Business,2.0,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+93a84330-cf51-4401-9546-7434a5c07356,Commerce,2.8,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+f4976120-62d7-441f-90fa-395eed71c56e,Architecture,1.7,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+8f9921de-c168-481e-8183-bac587446d02,Social Service,2.5,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+1b45493e-86e3-49dc-a4f4-618c423579a9,Journalism,5.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+e58331b6-ac8e-4e32-b0e4-b52d99d1127d,Business,3.3,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+a6f775b9-2024-40b7-b304-d40d898aabbc,Architecture,3.2,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+158a57c0-ba47-404a-acc9-3a7377d62cf0,Medicine,4.7,1,2,0,0.0,2,Yes,High,No,No,Advanced
+3e933369-3e1b-45d2-82a1-36567cfac271,Architecture,3.1,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+b543af1b-8667-494a-b5c6-00db25e43abe,Journalism,5.0,0,2,0,0.0,2,No,High,No,No,Advanced
+6c5b6fb8-4d3c-493b-863b-28fc2d96d317,Commerce,2.5,0,0,0,0.0,1,No,Low,No,No,Intermediate
+c37a1f62-cb9b-48f4-b4be-51d2e21eef14,Architecture,4.4,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+20550f35-ecd9-4ccb-a9ca-51d9773ff916,Coding,2.4,0,1,0,1.0,1,No,Medium,No,Data,Intermediate
+b63cdb8c-cb90-42dc-b1e7-18d77be643a0,Architecture,5.0,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+2060bdd3-6900-4142-8acb-a37631e50cd7,Coding,4.1,0,1,0,1.0,1,No,Medium,No,Data,Intermediate
+314580c8-fcd1-47e0-9a5b-d729a05435dc,Business,2.8,0,1,0,1.0,2,No,Medium,No,Yes,Advanced
+f9669b2e-43bd-41d5-a285-1cb53fcda283,Medicine,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+6080cbc2-1cc5-4d43-ab40-0afdc58d1484,Journalism,4.6,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+744192fb-07c3-4d71-a2be-641443dfc628,Medicine,3.3,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+caad0a19-9c29-4a16-8363-a959cbe8b030,Coding,3.7,1,1,1,0.8,1,Yes,Medium,Yes,UI,Intermediate
+3d6b4985-0d05-46dd-8745-8f58b5336fb8,Coding,4.7,0,0,1,0.8,1,No,Low,Yes,UI,Intermediate
+8746f15d-69ec-4d4f-a8a2-4985b8a63a8d,Journalism,4.8,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+1d60f21d-9440-4231-ba40-1cab73618395,Commerce,3.7,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+0f0782a6-d2f6-4b2f-b747-583a9813058b,Social Service,4.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+f963b921-c1e6-4913-9b62-7fc9716fdce5,Medicine,3.2,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+8d716b46-0a76-421c-8d67-31f24919a6f2,Social Service,5.0,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+61c38a5d-99fc-4457-a7d9-3de440b94378,Law,2.9,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+91133c8c-5b52-4a05-b039-55e51f0fcc9b,Business,1.6,0,0,0,0.0,0,No,Low,No,No,Beginner
+6dd35b8a-cd60-4abe-9f8c-4030c4d8c0fa,Journalism,2.2,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+2e090da5-460d-4705-aae3-ee727cf4ef34,Business,5.0,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+e48cfd30-cd9b-4011-b5a6-53b7b61f3a18,Commerce,5.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+11dc3d38-0d8a-4838-8871-51e31b5d9822,Architecture,4.0,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+e6387989-c352-4fae-ae66-1b2e03f9069b,Social Service,1.2,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+1bb69899-d819-41ad-97c5-601cadfcfa12,Journalism,3.3,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+dc3e1d54-a045-4a53-8e96-4da39003f500,Commerce,5.0,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+e16bfc45-017f-42e5-8563-b9f36f809d64,Architecture,2.7,1,1,0,0.0,2,Yes,Medium,No,No,Advanced
+6531728f-f2d0-4566-a603-b161960f692e,Coding,2.9,1,1,0,0.8,0,Yes,Medium,No,UI,Beginner
+e3c9d54b-cf41-4881-935c-a71bcf6cd787,Commerce,2.6,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+ccf054f3-658b-4029-abe3-71d5a827e567,Social Service,5.0,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+1a859e6f-9f8b-4dce-9e25-d2ac0b576183,Social Service,0.3,0,0,0,0.0,0,No,Low,No,No,Beginner
+749cc704-ec89-4610-823a-67bbf272694a,Law,4.0,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+df3cc2f5-a22c-4fd0-97d0-ecfa1c57f4a4,Coding,0.0,0,0,1,0.8,0,No,Low,Yes,UI,Beginner
+6dc1c39e-6713-49eb-b004-3155679deaa5,Law,4.0,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+06289931-74b1-40e7-a34c-b8398a79360b,Medicine,0.1,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+40275ef9-68cf-43a9-9e2a-d82cec4422cb,Social Service,4.6,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+030c3d74-f091-4023-98d2-5707fb181fca,Coding,1.9,1,0,0,0.8,1,Yes,Low,No,UI,Intermediate
+514a5783-c94c-4642-9d4a-8ce280fcd628,Architecture,5.0,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+4030f7ca-769b-4d4f-85ae-f841a00f912f,Commerce,2.9,0,1,0,0.0,2,No,Medium,No,No,Advanced
+5a0a5af2-dcb5-4cc0-aefe-68ee53684d86,Journalism,3.7,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+d7a6830e-c2ac-4650-b38f-9146f44a4968,Medicine,3.8,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+a2a84d56-23b7-40c8-83a6-a60f74e8945c,Journalism,3.9,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+f6d588c8-f66e-49ec-bf8f-c24d1b61cd4c,Medicine,4.8,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+4a116a89-b7c3-4f98-b79b-2dd9604a3e2e,Architecture,2.9,0,2,1,0.0,2,No,High,Yes,No,Advanced
+08a5abad-b3bb-4161-b38c-918fe40d8bd5,Social Service,4.0,0,2,1,0.0,2,No,High,Yes,No,Advanced
+b316c64f-bca6-4320-a0ed-030fd8b55529,Journalism,4.8,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+61ecaa75-369a-4ded-9161-dcd025aefb7e,Law,1.6,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+481f9b7d-c030-4787-a7dd-060bcd32956a,Medicine,4.9,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+2051f78c-cd7f-411a-a48c-f74c2b74797d,Law,4.9,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+7c378cac-f380-4d23-bfa2-7120b4e323d2,Social Service,3.9,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+1225dc33-4588-40d0-8432-baf722639434,Social Service,4.0,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+36c6f271-7844-4c45-b0df-da06520cd502,Journalism,2.0,0,1,1,1.0,1,No,Medium,Yes,Yes,Intermediate
+87664de7-89d1-49a6-86ef-5319809397b8,Social Service,4.0,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+79d13d35-092c-46bc-876d-ea1de43a88ef,Commerce,1.4,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+d71728eb-4ae3-43cc-b0a5-2a75fa0933a3,Social Service,5.0,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+e76f8e2c-711d-4e1f-b2bd-6e1f8100a16c,Commerce,2.7,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+3b931553-c897-4262-b248-5147c43cd5fd,Architecture,2.0,0,1,0,0.0,0,No,Medium,No,No,Beginner
+fa379ab1-604d-467d-9be8-d8b6fc244a83,Coding,0.8,1,0,0,1.0,0,Yes,Low,No,Data,Beginner
+f161286e-f48c-4a6c-81ce-a81263d2fdd4,Journalism,5.0,1,1,0,1.0,2,Yes,Medium,No,Yes,Advanced
+a28a3b5e-76bf-42c3-ad1b-64b75fe5ef63,Architecture,4.2,1,2,0,1.0,0,Yes,High,No,Yes,Beginner
+b9deffae-e27f-46ba-b3d9-dfce8d9671fb,Commerce,0.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+d9c2488b-4cd0-41a5-9d97-f276fcf55a0f,Journalism,4.3,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+0f15dcad-e2b9-4cb5-bbf4-30f93ab0a63b,Journalism,3.0,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+97cfc9a8-be32-4fef-aba9-d96e0e1c7423,Journalism,5.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+e03a647a-7d37-4a06-86aa-6b41d3c1b7bd,Commerce,1.0,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+6ffcfd0c-d65a-4165-bf25-6395137a673b,Architecture,5.0,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+fe13c431-1a8e-4d54-bfe0-bc07b57355fd,Business,1.2,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+efddd5c5-a049-4773-b7dc-d485547eff9e,Commerce,2.7,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+6b128972-68b4-4652-82b0-ca8f71d8c49f,Business,2.2,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+de5fa685-ab81-44f1-8264-5cc5901ae24a,Coding,3.9,1,0,1,0.8,2,Yes,Low,Yes,UI,Advanced
+e0e4ec72-9b93-4bbf-8530-60aab3bea0b1,Social Service,3.9,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+51e572b9-8a4a-4bd7-9199-3fe2751bddab,Business,5.0,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+bc1c3cba-db5f-41c0-9643-a5f77e7b0a02,Social Service,2.1,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+26ddd6bd-d541-413e-9503-b92640fdfa54,Commerce,5.0,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+4275573b-31aa-46a5-a8b1-1c28d3ad3023,Journalism,0.8,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+739037e6-ec03-4bfc-943c-e10f76b57fa4,Commerce,0.8,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+b38d85d6-a387-43d7-9592-f3e412013f33,Journalism,3.7,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+72b95ef2-8752-4fd6-b2da-58a3ea53c6f0,Social Service,5.0,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+7d9dc702-db5d-4a58-8625-8cf6e6eeb9f2,Commerce,4.6,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+8cc2bf37-b39b-403f-b26d-1f5c7b97bf01,Coding,0.0,0,0,0,0.8,0,No,Low,No,UI,Beginner
+8b5ac4d8-32bd-4fc2-ac52-367f9dcbc0d4,Law,0.0,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+57279126-2584-4fa1-8384-c1d15098a5aa,Medicine,3.8,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+036b7b01-d5d7-4e65-a0ce-f88dd75ec83f,Architecture,5.0,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+e547b4f8-c201-46f6-8ed2-a8e456b9e979,Law,2.8,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+da654431-2386-4cf4-9fb6-fc69571578c3,Journalism,3.7,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+c525255a-5159-47e2-ac85-73cdf4b1fb58,Architecture,3.8,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+58fe5f5a-6ad5-449d-b93e-0cdbdbbe55a7,Law,3.1,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+97cdde1f-f72c-4d7f-a0a3-dd7afdba24c2,Social Service,4.0,0,2,0,0.0,0,No,High,No,No,Beginner
+3fb2039b-4b4e-475d-b500-a803e4fb2a2e,Business,1.9,0,1,0,0.0,0,No,Medium,No,No,Beginner
+cf2a2d00-05b6-40b6-99d7-e1efc5f962b3,Coding,1.0,0,0,1,0.8,0,No,Low,Yes,UI,Beginner
+e4c50448-8d9c-40e8-8948-a6e1a33265f7,Commerce,4.4,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+10ec84c7-cfad-4b52-b39c-1519b8b8ed25,Social Service,4.8,1,2,0,0.0,2,Yes,High,No,No,Advanced
+0cd284ff-d28b-42a3-aebb-808a727186cb,Commerce,5.0,0,1,0,1.0,2,No,Medium,No,Yes,Advanced
+97f295c4-155e-4450-9d43-b6dce55fc0a2,Architecture,4.8,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+7d08f331-eb3d-49ae-82a1-85d13e57bf77,Coding,5.0,1,1,0,0.8,0,Yes,Medium,No,UI,Beginner
+5e02017e-f3bb-4e25-ab01-3a4277ff8c97,Commerce,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+991494d3-00ec-4fb4-ac6d-bf107f25700b,Journalism,3.8,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+340490bd-c7c3-4b3c-bde9-5b9d0b651ccd,Coding,5.0,1,0,0,0.8,0,Yes,Low,No,UI,Beginner
+b0dd4d1b-4d36-4d66-883d-fdff96584a0e,Law,0.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+91a8baab-b8af-4004-a889-2b8edf792f91,Medicine,2.3,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+285bd721-a1e8-43e7-8ad5-6dcd8bdf6158,Medicine,4.4,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+0378351b-d06d-4e21-80d6-992978328ca1,Architecture,3.6,0,2,1,0.0,2,No,High,Yes,No,Advanced
+02c799c9-5d56-45e7-9de4-da9fa18c1a0f,Architecture,1.9,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+41027c51-ab6f-41f6-ad9a-488d828df895,Journalism,3.6,0,2,0,1.0,0,No,High,No,Yes,Beginner
+5f2ba6dd-5400-44a0-997f-bc7acc65389f,Architecture,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+741937fa-3120-49fa-a845-8a414b9afabd,Social Service,4.8,0,1,0,0.0,2,No,Medium,No,No,Advanced
+db898c95-5939-47f0-8f3b-debb27602c80,Commerce,4.7,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+49792dff-fac0-4248-9d45-65de0a501c28,Business,3.4,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+efca1778-244a-493c-a26d-f5dbe2ddec73,Social Service,4.3,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+0fdc3954-fcec-47d7-95f8-8745f7c7efef,Architecture,3.6,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+cbaf4424-7a81-4dcf-a4dc-2090a08cc1c7,Law,4.2,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+b9432f59-42c2-4d54-bf11-ca87c79e5a28,Journalism,2.2,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+9145a9cc-c085-4d9e-b51e-ab507c3f081e,Journalism,4.1,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+10ce55e4-84cc-4d9e-b2ca-f6ae2c4978fb,Commerce,2.7,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+831ec5af-6312-44f0-bb4f-20adcf8e7722,Architecture,4.6,1,2,0,1.0,0,Yes,High,No,Yes,Beginner
+3544319f-fa43-450d-8a1a-cff65332dd29,Architecture,1.6,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+4e3c31d1-6312-4413-b29a-c441596b181d,Social Service,4.6,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+283cf195-bafa-4213-a6c0-c009c5aea222,Commerce,2.7,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+dada8d1f-9bd8-4c10-b09a-a27f7ef16ef2,Medicine,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+a8dbe109-e967-4782-a206-35faff8d56d7,Journalism,5.0,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+68f1ae47-776d-4c9e-8153-fe2189c2f3aa,Social Service,3.7,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+ff69b84c-589a-4f70-8e4b-aec20957403d,Social Service,4.3,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+4d9e102b-7f71-43f2-9b74-d517430acc2a,Business,5.0,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+3033cf50-2e73-4e90-aa31-2fde3f82b85d,Law,3.4,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+2fb3d64c-28b1-47ca-bb18-83fa190e65da,Medicine,2.8,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+1478a93a-6ab3-4c92-be48-9b49128b9da7,Commerce,2.0,0,0,0,0.0,1,No,Low,No,No,Intermediate
+e0725d7b-90ff-4017-a504-6cfe12fb6d6d,Medicine,2.6,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+45a7bbdd-2440-449b-ba6f-0d79789b14ab,Law,4.1,1,1,1,0.0,2,Yes,Medium,Yes,No,Advanced
+5c8a779b-f0e5-442e-9b92-a95cdfab94bf,Social Service,3.7,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+68ee3856-aeca-449c-a483-fc5dc2e3d405,Law,2.7,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+f5fc50f4-09c6-4954-8830-ffb96b48b870,Medicine,3.5,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+ec001515-bc8e-4542-91fc-10aa1b83ee17,Medicine,3.8,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+7a719e73-f71f-4401-ab8c-12380c4fb3d8,Social Service,3.1,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+86651ba5-56a0-45c2-b8f7-296caa1be3ad,Architecture,2.9,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+26af0756-9cd6-4525-8a60-72b9378502da,Medicine,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+57f16bb0-e966-4410-8f4a-3e19fd1a0169,Social Service,1.7,0,0,0,0.0,1,No,Low,No,No,Intermediate
+bac5ecc3-e3bc-43a3-abf5-b88980c5a8d7,Commerce,2.1,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+b8988abc-1174-4784-8d86-c92e6420f431,Law,0.0,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+89e01654-2a7a-4048-a645-b5dd29422c23,Law,3.0,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+7e5e595d-1d02-49ff-95a9-ac5b48813ffd,Architecture,1.4,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+59ec2ead-170c-4143-8241-17b20154dbbb,Law,3.3,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+f0b5f702-fa26-4555-b30c-e27b15ef76e1,Commerce,5.0,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+32983ceb-05cf-44f2-9795-b8e3dfaddbdd,Social Service,4.9,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+97909bab-be61-4687-ae45-ed6ce2afe217,Social Service,1.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+71a317ef-a967-4922-b636-dca34e38a3d9,Journalism,2.6,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+3c74abe0-7279-4cb0-90ed-2f5b481e57c3,Business,5.0,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+3d96728d-8fe0-4aaa-81ec-723d3899c4d0,Business,4.0,1,2,0,1.0,0,Yes,High,No,Yes,Beginner
+2f0bec5a-cc7e-42c7-892c-a675e4117491,Business,4.3,0,2,0,0.0,2,No,High,No,No,Advanced
+cfbf5a21-86c3-4368-a2a7-ebf336be4da3,Business,0.6,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+fc8bf47e-e41a-418f-82bd-1d32bb44db45,Journalism,1.8,0,0,0,0.0,1,No,Low,No,No,Intermediate
+9fc1bfc9-1332-49e8-b0f9-601b36968d72,Architecture,3.9,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+a407022d-8fd9-41b2-a1f7-8e2e62e5add8,Architecture,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+073f5f62-333c-4bda-a4cf-30790b5c1bdf,Medicine,5.0,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+8f1f4411-8cf4-4ea9-8ba9-4cbabeece6d6,Coding,4.2,0,0,0,1.0,2,No,Low,No,Data,Advanced
+ba598b20-42be-498b-992e-af2a3595a962,Commerce,4.9,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+d075b138-07a0-4aab-ab2b-3982e48f8565,Law,4.9,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+b97dc800-12f9-4b9a-b572-63da8d07b1f1,Medicine,4.1,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+aae9971e-819f-4e87-bdee-b195be9145ac,Law,0.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+1a8fd2e3-b2ed-46e9-88d1-04ce03a16783,Social Service,4.0,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+e86f6d88-1b7a-417f-b280-35e5f3f3940f,Social Service,4.2,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+16eea7ea-bde3-4de1-9f9b-f0d7fd98cf5a,Social Service,5.0,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+f49a8bd9-12c4-4aca-a365-5931dc8334e7,Law,1.3,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+4ea8bc4a-ebb5-421d-a2f0-692dcc2aeb0c,Business,3.8,0,2,1,0.0,2,No,High,Yes,No,Advanced
+5dffc2f0-52c7-41bd-869b-2c053d7c6520,Business,0.9,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+2770f6fe-afe6-4060-acec-0e7a13f45f24,Law,3.9,0,1,0,1.0,2,No,Medium,No,Yes,Advanced
+5d6bb4a1-7fa0-4c57-b619-8ba8605b1282,Medicine,5.0,0,2,1,0.0,2,No,High,Yes,No,Advanced
+0827a2de-b2fc-46c5-aa40-2cbbf1c30acb,Architecture,1.8,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+f0eba1ee-b278-49b7-a8b9-abc6c074f6be,Medicine,1.8,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+412b6cf4-6c69-4355-b186-6256c0f1ade9,Social Service,5.0,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+5da1b486-bddc-4908-b49d-ab481562be92,Business,2.6,0,2,1,0.0,0,No,High,Yes,No,Beginner
+a1fca161-4223-4d65-b9fe-14d2c90ec723,Architecture,2.1,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+9534cebb-821b-4a12-ae33-338d6de78886,Commerce,2.8,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+c362c2b4-31aa-4029-806f-2ecfb6de841b,Journalism,2.4,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+0900f5ec-6b6c-48d3-9343-cc5a63a5b3ce,Business,4.3,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+ed9443cd-fa07-497f-80e5-aebcea31c249,Architecture,3.3,0,2,0,0.0,2,No,High,No,No,Advanced
+cbdf0387-f5de-4b21-ba94-1479d628dcfa,Coding,4.7,1,2,1,1.0,2,Yes,High,Yes,Data,Advanced
+a02837df-c519-45e3-a18f-3a3284bfc6b1,Law,3.7,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+8cf6b36f-314c-4ba8-99fa-ee09966fd101,Social Service,1.9,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+9ee74123-fc43-40a8-9e16-a2b7e1999c40,Law,2.0,0,1,0,0.0,0,No,Medium,No,No,Beginner
+8355869e-9254-4353-b406-a2129b350dd5,Social Service,3.0,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+e7b7f2f4-89d0-465b-af07-75d8297d01f2,Social Service,1.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+0bcd2cfd-c072-4c51-9f64-6ed7f0175af3,Journalism,1.2,0,1,0,0.0,0,No,Medium,No,No,Beginner
+e6d02a38-e120-43a3-aaf0-095f92336cc2,Law,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+6187a08b-0d07-464e-a44e-681b33184000,Medicine,4.9,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+8adcea9c-0e55-43bd-8e49-9ab83fd824f2,Journalism,4.6,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+9a02f35f-f51c-4a90-bae2-1aca5c7fb938,Law,3.3,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+6e9ce66e-3eff-4035-991b-1837862fba6d,Law,4.8,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+54a39d0e-ddd8-4f2c-a05b-4463c937546b,Law,5.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+caf12b56-ffe2-47f0-a163-d81d94673ccb,Social Service,1.8,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+d395a78d-6a4d-4ac2-b1d0-f92cad16ad7d,Business,1.2,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+d24e968c-aba8-4502-bc35-a40be3096f66,Medicine,3.0,0,0,0,1.0,2,No,Low,No,Yes,Advanced
+ab9f454e-4e12-4601-a1e8-b76e22b66edf,Social Service,3.6,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+8fdef5da-5087-4c3f-8a65-931387e7406b,Commerce,1.8,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+a11385a2-d04b-4681-8c36-160912515271,Medicine,4.4,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+2ae15565-465e-4227-a989-c98f603c2b1c,Coding,4.4,1,2,1,0.8,0,Yes,High,Yes,UI,Beginner
+cde7ed50-c1ec-4b26-8dbc-204610b6fd89,Medicine,4.2,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+c643f74d-444c-456a-ac30-d20eea7ac974,Business,4.8,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+95cf036a-1102-4621-8044-39c3eed4832d,Journalism,2.1,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+ce9214c5-7de2-43a9-8afc-5698c90873ad,Social Service,5.0,0,1,0,1.0,1,No,Medium,No,Yes,Intermediate
+fd63dc46-0993-4f6f-a521-b8b4b51ad8d6,Coding,5.0,1,1,1,1.0,1,Yes,Medium,Yes,Data,Intermediate
+9b7b660b-2fd1-4079-b5f8-ce2f04373d0f,Coding,3.5,1,0,0,0.8,2,Yes,Low,No,UI,Advanced
+bff3e33b-61e2-463a-b886-531e764f2c27,Journalism,5.0,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+d0e9a45f-2a7c-43ac-985b-a394b4c81f5f,Social Service,3.1,0,2,0,0.0,1,No,High,No,No,Intermediate
+4c830f65-08e8-42a6-80a8-b27dcbaa5f1b,Law,1.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+9caa0d9a-39ba-4773-a948-8be80c01e1c9,Coding,5.0,1,1,0,1.0,2,Yes,Medium,No,Data,Advanced
+5071d397-002c-4855-9773-672555d4d14b,Business,5.0,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+f8889e75-72df-4736-803d-a996eef5ca54,Journalism,1.4,0,0,0,0.0,0,No,Low,No,No,Beginner
+61aec68d-c8bf-40bf-90ba-9069e53aa233,Journalism,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+8fc93a4a-aa6b-4a29-88e8-4c5e75600ada,Architecture,0.0,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+a2f20f01-4fc7-4cbc-b4ff-d591c5a55109,Medicine,4.2,1,0,0,1.0,2,Yes,Low,No,Yes,Advanced
+d234991c-7fc0-4a78-abb7-6f8ad5fedd01,Journalism,2.6,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+bb420926-56bc-436b-bc14-8b0d75c3fc00,Law,1.2,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+a7ea3446-c0c4-4046-82b5-4744eb387a2c,Architecture,2.2,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+df57b204-8cc3-4a71-a5a4-80fa12b52c0d,Social Service,2.0,0,1,1,1.0,1,No,Medium,Yes,Yes,Intermediate
+0b8a680d-7e83-40d6-a33f-a101f524129e,Commerce,2.0,0,0,0,0.0,1,No,Low,No,No,Intermediate
+0f4272a5-48e8-47cd-94a6-9c848b750ad6,Journalism,0.3,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+9421fe64-f083-4256-8c61-8fa2bccf46a3,Journalism,4.3,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+200b8f07-68f9-4bd2-b528-1792d22398b9,Medicine,4.4,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+de926839-74bd-492d-925b-3169249476cf,Commerce,4.7,1,2,0,0.0,0,Yes,High,No,No,Beginner
+69a5c0f0-7a36-46c9-90f3-3174e5b20576,Journalism,0.7,0,0,0,0.0,0,No,Low,No,No,Beginner
+146fe339-4ee2-4044-aa2b-f8aa15abe835,Law,1.7,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+a7589752-f945-4b83-a6a8-21c3f4fe6619,Law,5.0,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+056e42e0-336a-4af2-bc97-29e85a3b79d6,Business,1.8,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+e2828a37-35bf-4621-a15d-9894fbd030e6,Commerce,2.5,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+534dfb20-c928-4e8c-936d-2a0d5c83d319,Business,3.8,1,2,0,0.0,2,Yes,High,No,No,Advanced
+bfc512dd-e77f-4c21-b297-b7a213ab69f3,Coding,5.0,1,2,1,1.0,1,Yes,High,Yes,Data,Intermediate
+fa1a32d0-e3bb-41e5-98c3-6a222efb21eb,Business,4.7,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+716f606a-1826-4c77-8022-c54e6609c7ed,Journalism,1.0,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+6955ab45-3b17-41ad-8879-b6c133ebfd08,Commerce,2.2,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+eadcf6bd-b17e-4136-acc4-c18c7d92234a,Architecture,4.2,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+b3fc9037-db53-4b2b-9de5-7c9f891a50ce,Law,5.0,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+ded1da94-8381-4800-bb1c-410effc3eb75,Architecture,2.5,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+f42d3da7-bc26-47a3-ac5d-28132e4ab747,Commerce,2.2,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+fba0ba16-c469-4ae1-8942-c974d4672002,Law,1.6,0,1,0,0.0,0,No,Medium,No,No,Beginner
+9154fcc8-6813-4f24-97a9-c596379f6eef,Law,3.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+2d11ba0f-f1ea-406a-91af-64b6bade9eef,Coding,4.0,0,1,1,0.8,1,No,Medium,Yes,UI,Intermediate
+06bfe68d-3396-4d60-9bac-a4926c6a2735,Business,4.6,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+96ad90e0-92e5-4417-b2b5-96ab79f164fd,Journalism,3.8,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+84a75785-3c8e-4800-943f-68ca97c62920,Social Service,1.8,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+1a566819-b3f1-41e4-965d-88c7fc370546,Coding,2.5,0,1,0,1.0,0,No,Medium,No,Data,Beginner
+1dbdd251-d09d-4d99-ade6-cc7567164c0f,Coding,0.8,0,0,0,1.0,0,No,Low,No,Data,Beginner
+0730ce4f-9385-474a-8cec-8fc9d1203814,Medicine,3.0,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+8a49dda2-6469-447e-9554-3596895fd726,Social Service,4.0,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+b3515233-ace6-474f-bcfb-68a79bb6beb5,Social Service,0.5,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+f13d0872-06ad-4276-9aae-2db6203ca352,Architecture,1.2,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+0c41cf75-7596-4b6a-93e5-28dc7d4c505b,Social Service,4.1,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+32a28f00-e87e-4ec2-80d2-9862a7af7f63,Journalism,3.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+fc6e74cb-142d-4a6a-b9ff-acc2588cdc5a,Social Service,1.3,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+c5dff15f-7aa1-476d-9750-f658a589efad,Social Service,3.1,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+0caab53e-251c-4e3f-b1e1-a525e7553199,Commerce,1.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+9bf45013-0cf1-4423-aa42-54baf8cd5882,Social Service,3.2,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+0f4e3d16-a482-454b-bc5b-8d0372eeaade,Social Service,0.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+3fcf7613-a6a7-4e02-a0f9-ad648ff2ea10,Journalism,3.7,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+674927cf-ef5e-4ed4-8d99-5630d62a9a72,Commerce,4.9,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+0478285f-df2f-4d0d-a853-a7a00e5491bf,Coding,3.2,0,1,0,1.0,0,No,Medium,No,Data,Beginner
+fe9bf768-e1d3-457c-b05e-8e11dd167ffd,Business,0.2,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+6daf677f-f636-4881-a950-e7d185554b15,Law,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+e08009a2-8071-4e22-96a9-9fba403cdad0,Commerce,0.5,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+1b660066-853e-4d34-8cb5-48b634a0a22d,Architecture,1.2,0,0,0,0.0,0,No,Low,No,No,Beginner
+f37c6024-ebe6-48d4-b0e7-4c956366e46e,Law,1.7,0,0,0,0.0,1,No,Low,No,No,Intermediate
+3922ac6c-777c-4998-ae67-e69cca33b9c0,Social Service,0.7,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+cbff6524-3099-4ee8-a7c9-1bff10d1b4ef,Coding,1.7,1,1,0,0.8,0,Yes,Medium,No,UI,Beginner
+d7753323-78ca-4942-af7a-93960741e8d3,Coding,0.2,0,0,0,0.8,0,No,Low,No,UI,Beginner
+4d55534a-731e-4b00-b13e-98fb2871c64b,Commerce,4.3,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+34e9237e-262e-44e1-b5c4-833f43b6320a,Journalism,4.0,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+71e871e8-064d-4dba-bba9-e6667b603561,Social Service,0.9,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+af5572c5-83d4-4def-a769-eba9c2f2b501,Journalism,4.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+d2d7ef44-3f05-4294-8bad-add83ac00cff,Journalism,5.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+74b36933-94ef-4143-bd2e-87d919f931f4,Journalism,1.9,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+baca3432-6aef-4f65-95b1-c20d596709be,Law,3.0,0,2,0,1.0,0,No,High,No,Yes,Beginner
+cdb9f442-2a60-45fd-9a4a-c18023cc1bdf,Architecture,1.9,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+868c6a02-a8cc-4a72-ad25-54b149135c7b,Journalism,4.2,0,2,0,1.0,2,No,High,No,Yes,Advanced
+c83fb732-6c19-4edc-8e01-a89576a72cfe,Coding,3.2,0,0,1,1.0,1,No,Low,Yes,Data,Intermediate
+349d9d78-eb71-48fd-af75-c2bd09178e63,Law,4.9,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+dfd264cd-27e4-4b68-9ad1-0ee203db6142,Coding,4.8,1,0,1,0.8,0,Yes,Low,Yes,UI,Beginner
+18972652-5687-472a-b5f8-2351428e7f21,Business,5.0,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+650f9861-caa1-4ecc-aaa1-330e0b6238a3,Social Service,3.6,0,1,0,1.0,1,No,Medium,No,Yes,Intermediate
+1ff10aae-cf86-4388-b1f7-8be372a05420,Business,2.1,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+7a77675b-ef1e-45e5-8a86-a0e47f5206d8,Commerce,1.1,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+5be36d66-22ca-4fa7-a36d-b83c6dcbf396,Journalism,4.9,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+f47554e6-14d1-4173-8c84-9f1cc269468e,Journalism,1.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+2f2086f8-4052-40f5-bb94-84bc7d928a56,Business,4.4,0,2,1,0.0,2,No,High,Yes,No,Advanced
+fa8a45b8-6935-4c12-8737-336e0068d402,Law,3.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+13feab33-805e-441b-8dc9-cc7c0e0c8ee0,Architecture,3.6,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+f598e6c3-9096-4408-9ea4-0155f57dd3c5,Business,3.9,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+806665e6-4db3-4a0a-80a9-d155b90af02a,Business,4.3,0,2,0,1.0,2,No,High,No,Yes,Advanced
+bf93619e-6b58-40d9-a981-ce921f5c13b9,Social Service,3.7,0,1,0,0.0,2,No,Medium,No,No,Advanced
+83b3e985-cee3-4d3a-8b86-0a6e4ea99a2f,Business,5.0,0,2,0,0.0,1,No,High,No,No,Intermediate
+4bad226b-1637-4453-88d5-57b64f2391e5,Social Service,5.0,0,2,1,0.0,2,No,High,Yes,No,Advanced
+aefbd5f8-a810-4ab6-8e0e-eb9cc3bac402,Commerce,5.0,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+83c1752f-0dcf-48fa-b129-3ff0e672eae8,Commerce,4.8,0,2,0,1.0,2,No,High,No,Yes,Advanced
+8e70bb7e-78b7-4896-b1ad-936616eeb3e2,Journalism,3.6,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+a65c0f64-0798-485d-87b0-741329e74bd7,Coding,4.7,1,2,1,0.8,2,Yes,High,Yes,UI,Advanced
+398c5b1b-7930-4aea-b787-8c81448cf7bd,Architecture,4.5,0,1,1,0.0,2,No,Medium,Yes,No,Advanced
+7b3604fb-31c3-4f64-aea8-f6a636b4788d,Journalism,1.1,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+bb41d5a5-2168-4d13-884f-6ae653d5c9e8,Social Service,1.8,0,1,0,0.0,0,No,Medium,No,No,Beginner
+970dad44-0e40-41be-99f0-2c6dfba2ade0,Coding,4.8,1,2,1,1.0,0,Yes,High,Yes,Data,Beginner
+de1e1509-d284-4dc8-9839-475ef76e818b,Medicine,4.6,0,0,1,1.0,1,No,Low,Yes,Yes,Intermediate
+3d8f3a4c-a1f2-4bd0-9265-d8fbb9d2d0cc,Social Service,4.6,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+444831e8-47f2-402b-bfb1-168ecafc110b,Commerce,5.0,1,1,0,0.0,2,Yes,Medium,No,No,Advanced
+150d28b5-44f4-4e90-8681-58ab5b196048,Coding,2.4,1,2,0,0.8,2,Yes,High,No,UI,Advanced
+ee47ac62-1195-4a2f-9c4f-d810e6d2ff19,Law,2.0,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+0c0f6348-3720-4759-8b00-0ce620ddc9f8,Social Service,4.2,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+d142df2f-323c-4da2-aefd-db8ece21d441,Social Service,2.4,0,2,0,0.0,0,No,High,No,No,Beginner
+4126c94c-3c52-41a3-9ef8-75b3f0580386,Architecture,3.0,0,1,0,1.0,1,No,Medium,No,Yes,Intermediate
+23d35513-79b2-4ba3-a091-60ac71b6e926,Architecture,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+fc87fb60-6beb-49fb-bf99-fa459601d6c6,Journalism,3.7,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+8642db71-58eb-490b-a983-80148745a012,Commerce,4.2,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+0738009d-f5f5-40e7-aebe-6447f9fe684f,Medicine,0.7,0,0,0,0.0,0,No,Low,No,No,Beginner
+7f0696b3-a73a-430c-be7d-d6b74aa4f192,Social Service,3.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+46679959-9030-454a-8405-7cd9e1bc41c9,Commerce,1.9,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+b296540c-5f7b-454d-bfa5-784e1c4e7303,Medicine,0.6,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+fc903529-e248-46b3-85b4-42f7a7935068,Business,3.2,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+8833f6ef-2957-44da-ba5b-14ea86e34f83,Commerce,0.8,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+48977599-707f-47bd-8769-164ddbbd0302,Law,5.0,1,1,1,1.0,2,Yes,Medium,Yes,Yes,Advanced
+c49fb88e-e63a-4571-969c-b705dce63940,Commerce,2.0,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+989b7d49-adbf-42fc-9414-976d1b191cfb,Architecture,3.7,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+dda83f7b-d2aa-4031-85c7-9b8229fd0f8e,Coding,4.6,1,2,1,0.8,1,Yes,High,Yes,UI,Intermediate
+20273cbc-99b1-4e47-8545-7be75412bec8,Architecture,2.9,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+98bd93d4-b3c4-4441-9d9f-5ed827429ac0,Coding,2.2,1,0,0,1.0,1,Yes,Low,No,Data,Intermediate
+ccbb64ca-7397-4beb-997b-48153258d2c2,Commerce,5.0,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+f6f254d1-470f-47f3-a2bb-21dba3a16c31,Journalism,1.9,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+cf0708a4-223e-40b6-845d-6483d3d1cfad,Commerce,1.1,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+77b78408-c628-4639-a9f0-c5b270b2a3e2,Medicine,5.0,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+4b0ddd65-3ead-4785-b9ed-138007a99402,Law,4.8,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+4e502ec3-53ad-4dca-907c-ee987f8e80cf,Social Service,5.0,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+c56d6301-5b53-4d5b-81c2-875186e5c2ce,Social Service,3.7,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+0578a7fe-2764-468e-a8ca-0d1d4ec168e2,Social Service,0.7,0,1,0,0.0,0,No,Medium,No,No,Beginner
+6d069645-d81b-48d8-b9eb-c0daf5323d97,Commerce,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+c183842d-1b29-4468-a508-c8d561fd82e6,Journalism,1.4,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+656e851e-4b75-46d6-8400-c817c50c1621,Law,5.0,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+52833824-352e-4f83-b251-4de7b4a43511,Commerce,1.9,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+9a99c210-c93b-4dda-ae0a-ca1b323c5281,Social Service,0.2,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+0e05909a-0407-49c3-8afc-84aff124915d,Medicine,5.0,0,2,0,1.0,2,No,High,No,Yes,Advanced
+6751041d-ca6e-4804-a586-6f9d5718bc41,Social Service,4.1,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+9c560367-6fad-41c8-9d75-f31c767b8c92,Commerce,5.0,1,2,0,0.0,0,Yes,High,No,No,Beginner
+81180de0-5b9e-4cb5-a163-e49a216003f3,Journalism,1.9,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+52cfe16f-6ed0-44c8-88d4-ac5d0065e123,Business,0.7,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+d68ff658-7f79-4a28-ac27-2394d4130b25,Social Service,2.0,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+6aebc35b-1b9b-4909-a3e0-70a94917952b,Journalism,4.4,0,0,1,0.0,2,No,Low,Yes,No,Advanced
+bd26ea49-2d65-4d09-ade3-9a29bc8f6438,Law,0.9,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+04ce6b28-d544-41db-8545-4f57058edc6f,Journalism,1.0,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+e41e97fa-2cad-4539-9d99-c40c09ba7069,Social Service,4.1,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+12fba01b-28be-4c8f-91f2-bede2eb4896c,Law,4.3,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+5d0cda72-f026-445c-a798-bb60379ed40a,Medicine,1.9,0,1,0,0.0,0,No,Medium,No,No,Beginner
+ee80d8d7-ca4f-43a7-be2d-2a3d479eaf81,Architecture,3.9,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+62f5e470-5b29-4c43-89de-8d3124e8b86f,Architecture,4.1,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+2af968ae-812b-4f48-9847-c61ab0fa3d0e,Business,1.7,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+4269364f-cf3e-497b-b394-66987cc71079,Business,2.4,0,0,1,1.0,0,No,Low,Yes,Yes,Beginner
+e15976c8-4506-48c1-89d6-fb0ec4220775,Social Service,3.3,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+566c7569-d0c3-4be6-a7b3-08924a5a1b40,Medicine,4.1,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+1120d820-e2f8-4095-8485-af923af96f2f,Commerce,4.9,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+fb4100dd-396a-4648-9d5a-7c63f5bab4d3,Commerce,4.4,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+3e9bcac1-8576-4e96-beee-21aced33a47d,Architecture,3.5,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+374438e8-a550-4563-bfcb-44b3f4066782,Journalism,2.1,1,1,1,0.0,1,Yes,Medium,Yes,No,Intermediate
+7cba7752-d25c-40fe-89c9-b79b677fad0a,Social Service,5.0,1,2,1,0.0,2,Yes,High,Yes,No,Advanced
+cd83b034-6bdf-4a6e-b039-595f8d690fd0,Law,0.3,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+2bafec30-1327-4e9c-bfd7-5ff9c70d3397,Commerce,3.8,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+1c217936-1c0a-4183-806a-0340b2b271ee,Coding,4.2,0,0,1,0.8,0,No,Low,Yes,UI,Beginner
+cd3135a1-a1dd-475e-bc61-98c7d1b6bbe9,Commerce,3.8,1,0,0,1.0,1,Yes,Low,No,Yes,Intermediate
+64589c50-00a9-420d-8256-f0765505e92d,Medicine,1.8,0,1,0,0.0,0,No,Medium,No,No,Beginner
+4c4393a6-22d1-47fd-97a4-2fb8fe6a25e2,Law,5.0,1,1,0,0.0,0,Yes,Medium,No,No,Beginner
+8c23e0b0-2575-4418-a27f-78d0e31e058a,Social Service,3.2,0,1,0,1.0,1,No,Medium,No,Yes,Intermediate
+1f85ed63-4293-4216-b087-cf21a7aa5ae3,Business,4.6,0,2,1,1.0,1,No,High,Yes,Yes,Intermediate
+cc34cd0d-db07-49b5-b3a5-120882e4bcff,Coding,3.9,1,1,0,1.0,1,Yes,Medium,No,Data,Intermediate
+67a4936d-8173-4ad8-9f3a-31fb3f954893,Architecture,2.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+8176200a-d285-4a12-a3f2-08faccf8fc2c,Law,2.6,1,0,0,0.0,1,Yes,Low,No,No,Intermediate
+1f2dbe63-7b33-4877-84f0-2f515e270855,Social Service,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+74fbd8e2-7b43-40ee-a464-de713ecf8ba0,Medicine,4.1,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+7089e57b-8220-4964-a924-1dc1dbb7b037,Commerce,3.8,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+fdc26b11-f79a-40fb-9d7e-46a23a1f899c,Social Service,3.9,1,2,0,1.0,2,Yes,High,No,Yes,Advanced
+84b82ad6-a9bb-4828-9ae9-5f6ae026e741,Architecture,3.3,0,1,0,0.0,2,No,Medium,No,No,Advanced
+fbbede8a-8823-4a5e-a30b-13cfa66d84ad,Business,3.2,1,1,0,1.0,0,Yes,Medium,No,Yes,Beginner
+9ad56431-94b8-49ca-b4d2-9d5190bebf2b,Medicine,3.2,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+949a412e-68c9-4de4-bd8c-01793990aee1,Journalism,3.5,0,1,1,1.0,0,No,Medium,Yes,Yes,Beginner
+99703623-af7c-432f-9896-d665262b54d1,Law,3.5,0,0,0,1.0,1,No,Low,No,Yes,Intermediate
+6afca0f8-61e5-435a-b700-118ede3aaf21,Journalism,0.1,0,0,0,0.0,0,No,Low,No,No,Beginner
+84bd5313-ec93-47cb-b451-9c73a0355232,Business,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+bd7fd78f-fc26-4e30-a195-c008a8518147,Law,3.4,0,1,0,0.0,0,No,Medium,No,No,Beginner
+f5c099ab-2283-4f4e-bfa5-bebe092c4237,Architecture,4.1,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+b6f26a98-684f-48cf-a1d7-1825b0aeac47,Law,3.9,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+47fbfbf1-edec-434b-afe7-bca8ce55822d,Medicine,3.7,0,0,0,0.0,0,No,Low,No,No,Beginner
+2b823f60-8005-4bb4-9a9a-93c2b5c34d7e,Coding,4.0,1,1,0,1.0,2,Yes,Medium,No,Data,Advanced
+63f8e7d5-0fc3-46bb-a018-fe7f5f2a8bc8,Social Service,5.0,1,2,0,1.0,1,Yes,High,No,Yes,Intermediate
+bdafed6e-b669-42fb-a7da-8c5c59243b80,Commerce,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+56474305-1b1a-4d47-91b1-690f50968a9b,Business,4.7,1,2,0,0.0,0,Yes,High,No,No,Beginner
+52e30d91-63f8-479e-906f-85862d06cbec,Medicine,3.1,0,0,0,0.0,2,No,Low,No,No,Advanced
+a00e7b11-6134-4a98-8bb7-6296882349f2,Journalism,3.8,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+28dbba75-463b-4115-bcef-01260be95e42,Medicine,4.7,1,2,1,1.0,0,Yes,High,Yes,Yes,Beginner
+d47b698e-848b-4f22-8949-04fb0910ff4f,Journalism,0.7,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+e2440873-93b0-4ef9-869e-f3f5f4157e2b,Medicine,0.2,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+20027b92-a83e-4aea-b12d-dcdc43eccb29,Social Service,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+06a2b703-22f1-47df-83cf-eb524a0856f6,Business,3.3,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+8528d258-50a9-46a0-9295-5f2088cdd73b,Social Service,3.7,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+6dda88b2-66aa-4b69-bfe8-1e9e5ee78b3a,Law,4.2,1,1,0,1.0,2,Yes,Medium,No,Yes,Advanced
+6ae312fa-7c98-4fd2-96a7-7ad3db27acfc,Commerce,4.1,1,1,1,0.0,0,Yes,Medium,Yes,No,Beginner
+208f855f-5040-4aee-8caa-459a053586d3,Coding,2.7,0,1,0,1.0,1,No,Medium,No,Data,Intermediate
+648d42d7-617b-4f16-9ce7-807cd35c2a36,Commerce,4.3,1,0,1,1.0,0,Yes,Low,Yes,Yes,Beginner
+b350d3b6-68dc-43b4-8863-31203a18bd68,Commerce,4.7,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+db9d94c8-68cd-427d-aa39-df27c8cfc39c,Commerce,4.2,0,0,1,0.0,0,No,Low,Yes,No,Beginner
+aa2a94e3-dce7-418b-9ded-cd75bd32f520,Business,1.8,0,0,0,0.0,0,No,Low,No,No,Beginner
+6e76fbf6-ea98-4dac-b8ab-31f1caeeda26,Commerce,0.7,0,0,0,0.0,0,No,Low,No,No,Beginner
+1380ecc9-7ade-415d-806a-0349afab77f7,Law,5.0,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+a96fc9cc-1efb-4fd2-af1d-36be293bac5f,Law,2.6,1,0,1,0.0,2,Yes,Low,Yes,No,Advanced
+166e9ff5-3231-43c1-b7ef-321268e6c2f4,Journalism,5.0,0,1,1,1.0,2,No,Medium,Yes,Yes,Advanced
+99ef7a57-ca99-4a79-a5ac-a463e3c4162b,Medicine,3.9,0,2,1,1.0,2,No,High,Yes,Yes,Advanced
+609c7383-3cc2-4359-a813-05cbd02dfae5,Journalism,5.0,1,0,1,0.0,0,Yes,Low,Yes,No,Beginner
+7d14b66b-5160-4a88-8678-f8bd4f23eefc,Coding,4.7,1,1,1,0.8,0,Yes,Medium,Yes,UI,Beginner
+2831a84d-82f2-4d6d-9d53-fc6a710ae995,Commerce,5.0,1,1,1,1.0,1,Yes,Medium,Yes,Yes,Intermediate
+84e62ad4-a865-4b13-a52d-f318a1c38c6e,Business,3.0,0,2,0,0.0,0,No,High,No,No,Beginner
+5b234417-f12a-4884-b41a-862e5bcf5e77,Law,5.0,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+25cf1886-c2ca-406c-ad13-31f74692ef2f,Law,3.5,0,0,1,0.0,1,No,Low,Yes,No,Intermediate
+dab7bfc1-2a6d-4ca4-83ee-6f14e87a9875,Coding,2.1,1,1,0,0.8,0,Yes,Medium,No,UI,Beginner
+b06e188d-3d24-4115-ad90-a96224dc4827,Journalism,4.8,1,2,0,0.0,1,Yes,High,No,No,Intermediate
+99d608ac-9866-4b14-8c7e-dbb78a6c5ed3,Coding,5.0,0,2,1,1.0,2,No,High,Yes,Data,Advanced
+e693f7cf-7ce1-43bb-bf48-31052cb88922,Coding,2.6,0,1,1,0.8,0,No,Medium,Yes,UI,Beginner
+e6bedc27-df09-493d-9b2a-d200716ef90f,Business,4.5,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+ae3f70ff-05c4-4e53-b92b-f9c326ab590f,Journalism,2.5,0,1,1,1.0,1,No,Medium,Yes,Yes,Intermediate
+06de3a58-af84-45a8-96af-00137abb70db,Business,0.4,1,0,0,1.0,0,Yes,Low,No,Yes,Beginner
+55906ede-6cc4-4d46-bd03-882619eac426,Social Service,3.8,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+5772d006-16fa-491e-88d9-13f8550e98e4,Coding,3.9,1,2,1,1.0,0,Yes,High,Yes,Data,Beginner
+85febcde-f339-45ce-b7ac-a982ac72c0bb,Coding,1.4,0,0,1,1.0,1,No,Low,Yes,Data,Intermediate
+8cc1dcc5-9410-4708-b3ff-a476a4e2caf4,Business,4.6,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+bfabcb73-9283-454f-b308-919ba252bbcb,Journalism,4.9,0,0,1,1.0,2,No,Low,Yes,Yes,Advanced
+be9f7d87-422e-43a5-997f-db9102b96e0a,Law,4.3,1,1,0,1.0,1,Yes,Medium,No,Yes,Intermediate
+42c703b4-d6bb-487b-a8e1-6b69c00b91d3,Coding,5.0,1,2,1,0.8,2,Yes,High,Yes,UI,Advanced
+8a512f50-276c-4a14-9ebc-85f89c6aead2,Business,2.6,0,2,1,1.0,0,No,High,Yes,Yes,Beginner
+c037d767-e029-44b2-bec4-6acc28caa833,Law,3.7,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+9a929148-fc8d-4e4c-8644-18f398d6f72f,Business,3.1,1,0,0,0.0,0,Yes,Low,No,No,Beginner
+6ffe5d21-d512-4d87-bfb3-2eea3483829d,Business,2.8,0,2,0,1.0,2,No,High,No,Yes,Advanced
+b23ddb4b-92b8-43f6-bcd1-9b910cfd0af1,Business,4.1,1,0,0,0.0,2,Yes,Low,No,No,Advanced
+8bd38b1b-639b-445c-936a-2289e3b4d569,Journalism,5.0,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+2340943b-0e17-4beb-b5b8-77e5d6b528be,Business,3.2,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+29173dfc-5a4a-4efc-a239-7e90e7269bc8,Law,4.7,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+71a0af00-b1f2-466a-bd79-6969ec3c2743,Architecture,4.9,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+589a3d19-d6f6-406b-83e6-ff0aa3f5ec6a,Medicine,2.8,1,1,0,0.0,1,Yes,Medium,No,No,Intermediate
+a883ac55-ba84-4247-beba-c3a3d8d8dc3f,Social Service,4.9,1,0,1,1.0,1,Yes,Low,Yes,Yes,Intermediate
+f7ca370f-3ad3-4641-b279-bb3b3b2b5ff6,Journalism,2.4,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+dabf68d0-baff-48f4-b7ac-5e7d31943aa5,Commerce,5.0,1,1,1,1.0,0,Yes,Medium,Yes,Yes,Beginner
+424d8a15-bb79-48f1-b20c-69797e0d2ce0,Journalism,2.8,0,2,1,0.0,0,No,High,Yes,No,Beginner
+a584a6d5-44b8-4fde-ab96-f3b1efe80eb4,Commerce,4.3,1,0,1,1.0,2,Yes,Low,Yes,Yes,Advanced
+7be646b9-fbf6-468e-83c4-afea647ccc83,Social Service,2.9,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+c3cea095-2bcf-4293-8c52-711b77a26b3b,Journalism,1.7,0,1,1,0.0,1,No,Medium,Yes,No,Intermediate
+929c7242-2d98-4ebb-bfc4-32197ed04ee7,Business,0.3,0,0,0,0.0,0,No,Low,No,No,Beginner
+d32afe4d-e67f-4784-b675-7f6ec23a4fbd,Business,1.4,1,0,1,0.0,1,Yes,Low,Yes,No,Intermediate
+2e031778-3e5d-4177-bef8-ceb5000777d3,Commerce,3.1,1,2,0,0.0,0,Yes,High,No,No,Beginner
+6dde3735-d279-4268-b1fe-f7fb1a3e1032,Commerce,2.7,0,2,0,0.0,1,No,High,No,No,Intermediate
+65f60bf8-d6b9-44f4-a117-65cd337b504a,Architecture,3.7,0,0,0,1.0,2,No,Low,No,Yes,Advanced
+9e94e057-8edf-4ad5-a52b-8cfb158892ca,Social Service,4.0,0,2,0,1.0,0,No,High,No,Yes,Beginner
+ea87bd39-a278-4889-a69f-785e9da47c78,Commerce,4.6,1,2,1,0.0,1,Yes,High,Yes,No,Intermediate
+6cb5d929-84eb-47fa-9a4a-4ddb6965b313,Journalism,0.8,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+815eb3e6-a9c2-4c07-9516-d562cf70b382,Business,0.0,0,0,0,0.0,0,No,Low,No,No,Beginner
+a824e7bf-cdb1-4be4-904e-b1399dd6a40e,Commerce,3.1,0,1,0,0.0,0,No,Medium,No,No,Beginner
+2fac931f-2fe6-430b-8400-0b0ab8a2bc30,Law,5.0,1,2,1,1.0,1,Yes,High,Yes,Yes,Intermediate
+3453c220-2e0c-4669-9c3b-4090ddaf669f,Business,4.4,0,2,0,1.0,1,No,High,No,Yes,Intermediate
+d2bd8a8e-d200-471f-9d77-06bccc663159,Business,4.5,0,2,1,0.0,1,No,High,Yes,No,Intermediate
+23556de6-a36c-418f-b184-7ab95f332e20,Law,5.0,1,2,1,0.0,0,Yes,High,Yes,No,Beginner
+de46bb62-c852-4e0d-afd8-efa8c5b7a16b,Medicine,2.0,0,1,0,0.0,1,No,Medium,No,No,Intermediate
+edabc4d3-442e-44cc-9c99-746daef7e7bc,Commerce,3.8,1,2,1,1.0,2,Yes,High,Yes,Yes,Advanced
+00b608bd-a159-4d49-a976-f9287030e307,Law,3.4,0,1,1,1.0,1,No,Medium,Yes,Yes,Intermediate
+d84a31f3-fb5f-4082-811d-12b08b682fe5,Social Service,4.4,0,0,0,1.0,0,No,Low,No,Yes,Beginner
+9abda056-3e7c-42c2-bf21-63a20985b1cc,Business,3.1,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+8458aa90-0493-4a21-89d4-eb6a58381917,Business,1.9,0,1,0,0.0,0,No,Medium,No,No,Beginner
+ccd73c50-3627-431d-87a6-6b1183e22244,Business,2.9,0,1,1,0.0,0,No,Medium,Yes,No,Beginner
+56a3286b-684b-421c-a66b-704e5a8d8874,Business,5.0,0,1,0,1.0,0,No,Medium,No,Yes,Beginner
+3b7eff92-c5c3-4e41-968d-fd93875f767d,Journalism,4.8,0,2,0,1.0,0,No,High,No,Yes,Beginner
